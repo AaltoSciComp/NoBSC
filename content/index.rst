@@ -4,7 +4,7 @@ Nordic Basic Scientific Computing 2026
 Aalto Scientific Computing (ASC) invites you to its early 2026
 meetup - a gathering of everyone interested in supporting scientific
 computing (and a celebration of the diverse work that makes it all
-possible).  2026 February 2-4.
+possible). Aalto Otaniemi Campus, 2-4 February 2026.
 
 **Who is this for?** We especially welcome people who support academic
 research through computing and data expertise in universities and
