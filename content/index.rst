@@ -1,6 +1,13 @@
 Nordic Basic Scientific Computing 2026
 ======================================
 
+.. toctree::
+   :hidden:
+
+   practical-info
+   program-submissions
+
+
 Aalto Scientific Computing (ASC) invites you to its early 2026
 meetup - a gathering of everyone interested in supporting scientific
 computing (and a celebration of the diverse work that makes it all
@@ -33,28 +40,38 @@ achievements, to future directions.
 Schedule (general plan)
 -----------------------
 
-* Day 0 (Su, 1 Feb 2026): If anyone arrives early, grilling dinner in a Finnish forest.
+* Day 0 (Su, 1 Feb 2026): If anyone arrives early, grilling dinner in a Finnish forest (if enough people want to brave the cold).
 * Day 1 (Mo, 2 Feb 2026): Finnish RSE meetup
 * Day 2 (Tu, 3 Feb 2026): RSE/NoBSC day: events, lunch, evening dinner, some social activities scattered between.
 * Day 3 (We: 4 Feb 2026): events 9-12, lunch.
 
-Sessions:
+Sessions known so far:
+
+* Plenty of time for :doc:`submitted events <program-submissions>` and
+  networking.
 
 * **Cool things and problems:** each organization presents three cool
   things they have done lately and three problems they are facing
   right now.  This serves as a basis for networking during the rest of
   the event.
 
+* **Panel discussion with junior computational researchers**: Panel
+  discussions are usually full of the most senior people the
+  organizers can find.  In this discussion, we'll hear from junior
+  researchers, about how usable they find computing systems and the
+  onboarding process.
 
 
 Practical info
 --------------
 
+See :doc:`practical-info`.
+
 **Location:** Dipoli, Aalto University, Espoo, Helsinki area, Finland
 
-**Price:** Free, there is no registration fee but also you don't get
-food or anything provided.  Aalto Scientific Computing sponsors the
-facalities
+**Price:** Free (you pay your own food) or at-cost (depending on the
+ number of registrations).  Aalto Scientific Computing sponsors the
+ facilities.
 
 **Food:** Reservations at restaurants in the campus area.
 
