@@ -15,7 +15,8 @@ Food
 
 Reservations at restaurants in the campus area.  These restaurants can
 generally cater to all common diets, including vegetarian, vegan,
-gluten free, and lactose free.
+gluten free, and lactose free.  There are also two grocery stores at
+the metro station (A entrance).
 
 
 Map
@@ -26,10 +27,12 @@ Map
    <iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/nobsc-2025_1288809?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=3e65efea-6ffd-454c-803d-06683647ef10%2C21734aea-419f-4baa-a158-ce70c0173ed4%2C5405ca27-291d-4abb-863b-359d864fa890#17/60.18523/24.82906"></iframe><p><a href="//umap.openstreetmap.fr/en/map/nobsc-2025_1288809?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&datalayers=3e65efea-6ffd-454c-803d-06683647ef10%2C21734aea-419f-4baa-a158-ce70c0173ed4%2C5405ca27-291d-4abb-863b-359d864fa890#16/60.18523/24.82906">See full screen</a></p>
 
 
-Other activities
-----------------
+Tourist information and other activities
+----------------------------------------
 
-Wikivoyage Helsinki is usually pretty accurate and has information about the area and other sights to see.
+`Wikivoyage Helsinki <https://en.wikivoyage.org/wiki/Helsinki>`__ is
+usually pretty accurate and has information about the area and other
+sights to see.
 
 
 Hotels

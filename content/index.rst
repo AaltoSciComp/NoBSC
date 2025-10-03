@@ -16,10 +16,12 @@ meetup - a gathering of everyone interested in supporting scientific
 computing (and a celebration of the diverse work that makes it all
 possible). Aalto Otaniemi Campus, 2-4 February 2026.
 
-**The first half is a "Finnish RSE meetup", the second half is "NoBSC"
-and more targeted to service staff.  The middle day has events that
-are interesting to both audiences.  People can attend both halves, but
-we expect many attendees will only attend one half or the other.**
+**The first half is a** ":doc:`Finnish RSE meetup
+<finnish-rse-meetup>`" **, the second half is "NoBSC" and more
+targeted to service staff.  The middle day has events that are
+interesting to both audiences.  People are welcome to attend both
+halves, but we expect many attendees will only attend one half or the
+other.**
 
 **Who is this for?** We especially welcome people who support academic
 research through computing and data expertise in universities and
@@ -32,17 +34,19 @@ This isn't a time to advertise how great our sausage is.  It's a time
 to talk about how our sausage is made (the good and bad things) so we
 can all get better at it.
 
+
 Topics
 ------
 
 We can talk about whatever is interesting to us: from past
 achievements, to future directions.
 
+* Academic experience as a research engineer.
 * Practical support (research software engineering, both practices and
-  how we run our teams),
+  how we run our teams).
 * HPC cluster management (day to day problems and usability for small
-  projects and new users)
-* Teaching (practical teaching done for the previous two categories)
+  projects and new users).
+* Teaching (practical teaching done for the previous two categories).
 
 
 Schedule (general plan)
@@ -72,17 +76,19 @@ Sessions known so far:
   onboarding process.
 
 
-Practical info
---------------
+Quick info
+----------
 
-See :doc:`practical-info`.
+.. seealso::
+
+   :doc:`practical-info`
 
 **Location:** Dipoli, Aalto University, Espoo, Helsinki area, Finland
 
 **Price:** Free (you pay your own food) or at-cost (depending on the
- number of registrations).  Aalto Scientific Computing sponsors the
- facilities.
+number of registrations).  Aalto Scientific Computing sponsors the
+facilities.
 
 **Food:** Reservations at restaurants in the campus area.
 
-**Registration:** To be opened later.
+:doc:`registration`: To be opened later.
