@@ -7,7 +7,7 @@ Nordic Basic Scientific Computing 2026
    finnish-rse-meetup
    practical-info
    registration
-   program-submissions
+   call-for-sessions
    schedule
 
 
@@ -48,6 +48,8 @@ achievements, to future directions.
 Schedule (general plan)
 -----------------------
 
+.. seealso:: :doc:`schedule`
+
 * Day 0 (Su, 1 Feb 2026): If anyone arrives early, grilling dinner in a Finnish forest (if enough people want to brave the cold).
 * Day 1 (Mo, 2 Feb 2026): Finnish RSE meetup
 * Day 2 (Tu, 3 Feb 2026): RSE/NoBSC day: events, lunch, evening dinner, some social activities scattered between.
@@ -55,7 +57,7 @@ Schedule (general plan)
 
 Sessions known so far:
 
-* Plenty of time for :doc:`submitted events <program-submissions>` and
+* Plenty of time for :doc:`submitted events <call-for-sessions>` and
   networking.
 
 * **Cool things and problems:** each organization presents three cool
