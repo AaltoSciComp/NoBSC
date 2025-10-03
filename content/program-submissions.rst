@@ -11,8 +11,9 @@ sessions, discussions, etc.
 
 **Submissions will open later.**
 
-Submissions
------------
+
+Submit an event
+---------------
 
 You'll be able to submit talks/demos/workshops/etc. you'd like to give.
 
@@ -20,8 +21,9 @@ Our facilities include one main room (reserved), one breakout room
 (reserved), and various other places you can find in the building
 lobby areas for smaller discussion sessions (not reserved).
 
-Requests
---------
+
+Request an event
+----------------
 
 If you have things you would like to hear/do, but can't organize
 yourself, please submit this as part of your registration or via the

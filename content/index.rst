@@ -4,8 +4,8 @@ Nordic Basic Scientific Computing 2026
 .. toctree::
    :hidden:
 
-   practical-info
    finnish-rse-meetup
+   practical-info
    registration
    program-submissions
    schedule
