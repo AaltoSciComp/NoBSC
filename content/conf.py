@@ -36,6 +36,8 @@ extensions = [
     #"sphinx_lesson",
     # remove once sphinx_rtd_theme updated for contrast and accessibility:
     "sphinx_rtd_theme_ext_color_contrast",
+    "sphinx_yaml_table",
+    "sphinx_jinja2",
 ]
 
 # Settings for myst_nb:
@@ -109,3 +111,11 @@ html_context = {
 #    #'matplotlib': ('https://matplotlib.org/', None),
 #    'seaborn': ('https://seaborn.pydata.org/', None),
 # }
+
+
+import yaml
+jinja2_contexts = {
+    'ctx1': {
+        'schedule': yaml.safe_load(open('schedule.yaml'))
+    }
+}
