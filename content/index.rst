@@ -5,13 +5,21 @@ Nordic Basic Scientific Computing 2026
    :hidden:
 
    practical-info
+   finnish-rse-meetup
+   registration
    program-submissions
+   schedule
 
 
 Aalto Scientific Computing (ASC) invites you to its early 2026
 meetup - a gathering of everyone interested in supporting scientific
 computing (and a celebration of the diverse work that makes it all
 possible). Aalto Otaniemi Campus, 2-4 February 2026.
+
+**The first half is a "Finnish RSE meetup", the second half is "NoBSC"
+and more targeted to service staff.  The middle day has events that
+are interesting to both audiences.  People can attend both halves, but
+we expect many attendees will only attend one half or the other.**
 
 **Who is this for?** We especially welcome people who support academic
 research through computing and data expertise in universities and

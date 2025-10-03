@@ -1,6 +1,17 @@
 Practical info
 ==============
 
+When to attend
+--------------
+
+For NoBSC for service staff, attend 3 Feb until lunch on Feb 4.  See
+the :doc:`schedule`
+
+For Finnish-RSE meetup, attend lunch (or earlier) on 2 Feb to lunch
+or dinner on 3 Feb.
+
+
+
 Location
 --------
 
@@ -8,17 +19,6 @@ Aalto University Campus, (Espoo), Helsinki Area.  If you search
 ``Dipoli`` it should find it, the address is ``Otakaari 24, 02150
 Espoo``.
 
-
-Registration
-------------
-
-Free, we hope for no registration fee but also you don't get food or
-anything provided.  Aalto Scientific Computing sponsors the
-facilities.  **But if there are enough registations** that we can't
-get reservations with a "pay yourself" style, we'll request
-participants to pre-pay a registration fee that covers food/snacks.
-
-To be opened later.  Maximum capicity 50 but ideal size 30.
 
 
 Food
