@@ -55,7 +55,7 @@ schedule:
         New line.
 
     - id: cool-things-and-problems
-      title: Cool things and Problems
+      title: Cool things and problems
       time: 13:10
       location: main
       short: short desc
