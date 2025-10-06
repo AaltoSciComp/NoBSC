@@ -5,3 +5,5 @@ myst_nb
 sphinx-lesson
 sphinx-yaml-table
 sphinx-jinja2
+markdown
+markupsafe

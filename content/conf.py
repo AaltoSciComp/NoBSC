@@ -124,3 +124,20 @@ jinja2_contexts = {
         'schedule': yaml.safe_load(open('schedule.yaml'))
     }
 }
+import jinja2
+import markdown
+import markupsafe
+md = markdown.Markdown(extensions=['meta'])
+def filter_markdown(text):
+    if not text:
+        return ""
+    return markupsafe.Markup(md.convert(text))
+def filter_remove_newlines(text):
+    if not text:
+        return ""
+    return text.replace('\n', '')
+
+jinja2_filters = {
+    'markdown': filter_markdown,
+    'remove_newlines': filter_remove_newlines,
+    }

@@ -1,5 +1,37 @@
-- - Monday
-- - "10:00"
-  - Welcome
-- - "11:00"
-  - First session
+meta:
+  rooms:
+    main:
+      name: Palaver
+      description: Main room
+    klondyke:
+      name: Klondyke
+    other:
+      name: Other
+
+schedule:
+  Monday:
+    - id: intro1
+      time: 10:00
+      location: main
+      title: Introduction
+      contributors: Darst, Wittke
+      abstract: |
+        This is the [abstract](https://example.com).
+
+        New line.
+
+    - time: 10:50
+      location: other
+      title: Break
+
+    - id: talk1
+      time: 11:00
+      location: main
+      title: First talk
+      short: short desc
+
+    - id: lunch
+      title: Lunch
+      time: 12:00
+      location: other
+      short: Upstairs
