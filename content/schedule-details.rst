@@ -21,14 +21,14 @@ Schedule
           {% endfor %}
        </tr>
 
-       {% for time, sessions in day | groupby("time") %}
+       {% for time, sessions in day|rejectattr("time","undefined")|groupby("time") %}
           <tr>
           <th>{{"%02d:%02d"|format(time//60, time%60)}}</th>
 
           {% for room in schedule.meta.rooms %}
 
             <td>
-            {% for event in sessions|selectattr("location", "eq", room) %}
+            {% for event in sessions|rejectattr("location", "undefined")|selectattr("location", "eq", room) %}
                <b>
                  {% if 'id' in event %}<a href="#{{event.id}}">{{ event.title }}</a>
                  {% else %}{{ event.title }}</a>
@@ -36,8 +36,8 @@ Schedule
                </b>
                {% if 'short' in event %}
                  <br>{{ event.short }}
-               {%if not loop.last %}<br><br>{% endif %}
                {% endif %}
+               {%if not loop.last %}<br><br>{% endif %}
             {% endfor %}
             </td>
 
@@ -58,12 +58,14 @@ Schedule
 
    .. raw:: html
 
-       {% for time, sessions in day | groupby("time") %}
-       {% for event in sessions %}
+       {% for time, sessions in day|rejectattr("time","undefined")|groupby("time") %}
+       {% for event in sessions|rejectattr("id", "undefined") %}
 
          <section id="{{event.get("id")}}">
          <h3>{{event.title}}
-	   ({{"%02d:%02d"|format(event.time//60, event.time%60)}}, {{schedule.meta.rooms[event.location].name}})
+	   {%if 'location' in event and 'time' in event %}
+	     ({{"%02d:%02d"|format(event.time//60, event.time%60)}}, {{schedule.meta.rooms[event.location].name}})
+	   {% endif %}
 	   {% if 'id' in event%}<a class="headerlink" href="#{{event.id}}" title="Link to this heading"></a>{% endif %}
 	 </h3>
 	 {% if 'contributors' in event %}<p>Contributors: {{event.get("contributors", "")}}</p> {% endif %}

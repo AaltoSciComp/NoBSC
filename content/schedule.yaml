@@ -8,30 +8,58 @@ meta:
     other:
       name: Other
 
+# To have an event NOT appear in the table
+# - exclude "time" or "location"
+# To have an event NOT appear in the paragraph descriptions:
+# - exclude the ID
+
+
 schedule:
-  Monday:
+  Tuesday:
+    #- #id: name   # If missing, do not include in the long list
+    #  #time: 10:00
+    #  #location: main  # must match one of the rooms above
+    #  title: Title    # Main title (only required attribute)
+    #  #contributors:  # One line.  Who contributes it.
+    #  #short:         # If given, a few words to appear in the table
+    #  #abstract: >-
+    #  #  abstract
+    #  #
+    #  #  newline
+
+    - time: 10:50
+      location: other
+      title: Break
+      short: With coffee
+
+    - title: Lunch
+      time: 12:00
+      location: other
+      short: Upstairs
+
+    - time: 13:50
+      location: other
+      title: Break
+      short: No coffee
+
+    # Events for Tuesday
+
     - id: intro1
-      time: 10:00
+      time: 13:00
       location: main
-      title: Introduction
+      title: NoBSC intro
       contributors: Darst, Wittke
       abstract: |
         This is the [abstract](https://example.com).
 
         New line.
 
-    - time: 10:50
-      location: other
-      title: Break
-
-    - id: talk1
-      time: 11:00
+    - id: cool-things-and-problems
+      title: Cool things and Problems
+      time: 13:10
       location: main
-      title: First talk
       short: short desc
+      contributors: Darst leads, everyone may present
+      abstract: >-
+        CTaP abstract
 
-    - id: lunch
-      title: Lunch
-      time: 12:00
-      location: other
-      short: Upstairs
