@@ -5,6 +5,7 @@ Nordic Basic Scientific Computing 2026
    :hidden:
 
    finnish-rse-meetup
+   about
    practical-info
    registration
    call-for-sessions
