@@ -17,7 +17,9 @@ Schedule
        <tr>
           <th></th>
           {% for room_name, room_data in schedule.meta.rooms|items %}
-            <th>{{room_data.name}}</th>
+            <th style="vertical-align: top;">{{room_data.name}}
+	    {% if 'description' in room_data %}<br><span style="font-weight: normal;">{{room_data.description}}</span>{% endif %}
+            </th>
           {% endfor %}
        </tr>
 
