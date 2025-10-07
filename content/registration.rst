@@ -1,16 +1,11 @@
 Registration
 ============
 
-
-**Option 1:** There is no registration fee, but you have to pay for
-your own food, snacks, and coffee.
-
-**Option 2:** We have a registration fee designed to cover just the
-cost of your food, snacks, dinner, and coffee.  (ASC covers fixed
-costs of the facilities.)
-
-We start with option 1 and option 2 is used during reconfirmation if
-we get enough registrations.
+There is no registration fee, but also no food, snacks, coffe, and
+dinner provided.  We will have to divide into smaller groups for lunch
+and dinners and distribute to various restaurants.  We will provide
+long times for coffee breaks and lunches and make sure that everyone
+can find an engaging group to be a part of.
 
 Maximum capicity 50 but ideal size 30.
 
