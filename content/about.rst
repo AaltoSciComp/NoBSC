@@ -1,6 +1,23 @@
 About
 =====
 
+Organizers
+----------
+
+* Richard Darst, Aalto University (co-lead, NoBSC part)
+
+The organizers welcome others to take part in planning, either in
+short or long term.
+
+
+
+Supported by
+------------
+
+* Aalto Scientific Computing (Science-IT): (Staff time, sponsoring all facilities)
+
+
+
 History of NoBSC
 ----------------
 
