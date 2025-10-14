@@ -5,17 +5,20 @@ Organizers
 ----------
 
 * Richard Darst, Aalto University (co-lead, NoBSC part)
+* Samantha Wittke, CSC - IT Center for Science (co-lead, RSE-FI)
 
 The organizers welcome others to take part in planning, either in
 short or long term.
 
+Please join our <https://coderefinery.zulipchat.com> to contribute.
 
 
 Supported by
 ------------
 
 * Aalto Scientific Computing (Science-IT): (Staff time, sponsoring all facilities)
-
+* CSC - IT Center for Science (EuroCC2 project) : (Staff time)
+* Software Sustainability Institute (through fellowship of Samantha Wittke): (Travel funding, planning support)
 
 
 History of NoBSC
@@ -48,3 +51,14 @@ online, and our `collaboration was focused on online events
 Now, in 2025, we are trying to meet again in person.  Hopefully there
 are the best parts from NeIC conferences, NeIC all-hands meetings,
 and NordicHPC, with even more people welcome to attend.
+
+In addition, we have noticed that Research Software Engineering community, 
+or "researchers who code" appreciate the connection to each other too. 
+Samanthas fellowship with the Software Sustainability Institute looks at exactly that. 
+Part of the fellowship is the contribution to the international RSE survey 
+to get to know the Finnish and Nordic community needs a bit better. 
+A short lunch meeting of RSE enthusiasts in Espoo to celebrate the international
+RSE day on October 9th 2025 was a good start to connect. For the Finnish RSE meetup, we
+aim to also get together RSE enthusiasts from all over the country, share what we do,
+learn from each other and also learn about the needs and wishes of the community. 
+
