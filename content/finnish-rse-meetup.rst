@@ -37,6 +37,14 @@ By joining, you can:
 - Share your own experiences, needs, and ideas for national cooperation
 - Help shape the future of Finnish/Nordic RSE activities - training, recognition, and community events
 
+Travel funding
+---------------
+
+Thanks to the Software Sustainability Institute we have some travel funding (travel + one night accomodation)
+available for you to visit the RSE-FI meetup.
+
+More information coming soon. 
+
 Organizers
 ----------
 
