@@ -62,9 +62,9 @@ Schedule (general plan)
 .. seealso:: :doc:`schedule`
 
 * Day 0 (Su, 1 Feb 2026): If anyone arrives early, grilling dinner in a Finnish forest (if enough people want to brave the cold).
-* Day 1 (Mo, 2 Feb 2026): Finnish RSE meetup
-* Day 2 (Tu, 3 Feb 2026): RSE/NoBSC day: events, lunch, evening dinner, some social activities scattered between.
-* Day 3 (We: 4 Feb 2026): events 9-12, lunch.
+* Day 1 (Mo, 2 Feb 2026): RSE meetup
+* Day 2 (Tu, 3 Feb 2026): RSE/SciComp overlap day: events, lunch, evening dinner, some social activities scattered between.
+* Day 3 (We: 4 Feb 2026): SciComp team meetup: events 9-12, lunch.
 
 Example sessions:
 

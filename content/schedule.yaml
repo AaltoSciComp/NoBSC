@@ -47,7 +47,7 @@ schedule:
     - id: intro1
       time: 13:00
       location: main
-      title: NoBSC intro
+      title: RC/SciComp team meetup intro
       contributors: Darst, Wittke
       abstract: |
         This is the [abstract](https://example.com).
