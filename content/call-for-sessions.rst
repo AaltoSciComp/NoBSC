@@ -4,10 +4,10 @@ Call for sessions
 Everyone is asked to contribute to "cool things and problems".
 
 Remember, the theme of this conference is how we actually work and
-"how the sausage is made", not "advertising our sausage".  You can
-present ideas, undone things, things you need advice on, and so on.
-You can request lightning talks, short talks, long talks, breakout
-sessions, discussions, etc.
+"the problems we found along the way", not "advertising our product".
+You can present ideas, what you couldn't do, things you need advice
+on, and so on.  You can request time slots for lightning talks, short
+talks, long talks, breakout sessions, discussions, etc.
 
 **Submissions will open later.**
 
@@ -64,3 +64,10 @@ yourself, please submit this as part of your registration or via the
 submission form and we'll see if we can find someone to present.
 We'll probably contact all registrants to see who can take one of
 them.
+
+- Open OnDemand
+- Research Software Engineer funding in your institutions or countries.
+- ...
+- ...
+- ...
+- ...

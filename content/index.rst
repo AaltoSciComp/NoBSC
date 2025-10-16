@@ -5,9 +5,20 @@ Nordic Basic Scientific Computing 2026
    :hidden:
 
    finnish-rse-meetup
-   about
+   rc-scicomp-team-meetup
+
+.. toctree::
+   :hidden:
+   :caption: Information
+
    practical-info
    registration
+   about
+
+.. toctree::
+   :hidden:
+   :caption: Program
+
    call-for-sessions
    schedule
 
@@ -17,23 +28,18 @@ meetup - a gathering of everyone interested in supporting scientific
 computing (and a celebration of the diverse work that makes it all
 possible). Aalto Otaniemi Campus, 2-4 February 2026.
 
-**The first half is a** ":doc:`Finnish RSE meetup
-<finnish-rse-meetup>`" **, the second half is "NoBSC" and more
-targeted to service staff.  The middle day has events that are
-interesting to both audiences.  People are welcome to attend both
-halves, but we expect many attendees will only attend one half or the
-other.**
+**The first half is a** :doc:`Finnish+friends RSE meetup
+<finnish-rse-meetup>` **, the second half is a** :doc:`meetup of local
+unit research and scientific computing teams more targeted to service
+staff <rc-scicomp-team-meetup>`\ **.  The overlapping middle day has
+events that are interesting to both audiences.  People are welcome to
+attend both halves, but we expect many attendees will only attend one
+half or the other.**
 
-**Who is this for?** We especially welcome people who support academic
-research through computing and data expertise in universities and
-research institutions , for example those in local HPC or RSE teams,
-cloud computing, and other computing services for researchers. But
-everyone is welcome: including Academic researchers, data managers,
-open science experts and anyone interested in these topics.
-
-This isn't a time to advertise how great our sausage is.  It's a time
-to talk about how our sausage is made (the good and bad things) so we
-can all get better at it.
+This isn't a time to advertise how great our tools and services are.
+It's a time to look under the hood and talk about all the problems we
+encountered on the way (and the problems we expect in the future) so
+we can get better.
 
 
 Topics
@@ -60,7 +66,7 @@ Schedule (general plan)
 * Day 2 (Tu, 3 Feb 2026): RSE/NoBSC day: events, lunch, evening dinner, some social activities scattered between.
 * Day 3 (We: 4 Feb 2026): events 9-12, lunch.
 
-Sessions known so far:
+Example sessions:
 
 * Plenty of time for :doc:`submitted events <call-for-sessions>` and
   networking.
@@ -93,3 +99,5 @@ facilities.
 **Food:** Reservations at restaurants in the campus area.
 
 :doc:`registration`: To be opened later.
+
+**Online attendance:** this will probably be possible.
