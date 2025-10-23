@@ -5,6 +5,7 @@ meta:
       description: Main room
     klondyke:
       name: Klondyke
+      description: Parallel room
     other:
       name: Other
 
@@ -13,8 +14,68 @@ meta:
 # To have an event NOT appear in the paragraph descriptions:
 # - exclude the ID
 
+templates:
+    - &break
+      time: 10:50
+      location: other
+      title: Break
+      short: With coffee
+
+    - &lunch
+      title: Lunch
+      time: 12:00
+      location: other
+      short: Upstairs
+
+    - &end
+      title: End of day
+      time: 17:00
+      location: main
+      short: Rooms remain available
+
+    - &dinner
+      title: Dinner
+      time: 19:00
+      location: other
+      short: Various restaurants
+
+    - &session
+      title: Session
+      location: main
+      #short: To be filled with submitted talks
+
 
 schedule:
+  Monday:
+    #- #id: name   # If missing, do not include in the long list
+    #  #time: 10:00
+    #  #location: main  # must match one of the rooms above
+    #  title: Title    # Main title (only required attribute)
+    #  #contributors:  # One line.  Who contributes it.
+    #  #short:         # If given, a few words to appear in the table
+    #  #abstract: >-
+    #  #  abstract
+    #  #
+    #  #  newline
+
+    - <<: *lunch
+    - id: intro1
+      time: 13:00
+      location: main
+      title: RSE meetup intro
+      contributors: Wittke, Darst
+      abstract: |
+        Introductory words.
+    - <<: *session
+      time: 13:10
+    - <<: *break
+      time: 14:30
+    - <<: *session
+      time: 14:45
+    - <<: *end
+
+    - <<: *dinner
+
   Tuesday:
     #- #id: name   # If missing, do not include in the long list
     #  #time: 10:00
@@ -27,38 +88,27 @@ schedule:
     #  #
     #  #  newline
 
-    - time: 10:50
-      location: other
-      title: Break
-      short: With coffee
+    - <<: *session
+      time: 9:00
+    - <<: *break
+      time: 10:30
+    - <<: *session
+      time: 10:45
+    - <<: *lunch
 
-    - title: Lunch
-      time: 12:00
-      location: other
-      short: Upstairs
-
-    - time: 13:50
-      location: other
-      title: Break
-      short: No coffee
-
-    # Events for Tuesday
-
-    - #id: intro1
+    - id: intro2
       time: 13:00
       location: main
       title: RC/SciComp team meetup intro
       contributors: Darst, Wittke
       abstract: |
-        This is the [abstract](https://example.com).
-
-        New line.
+        Introductory words.
 
     - id: cool-things-and-problems
       title: Cool things and problems
       time: 13:10
       location: main
-      short: short desc
+      #short: short desc
       contributors: Darst facilitates, everyone may present
       abstract: |
 
@@ -74,28 +124,56 @@ schedule:
         Attendees will get contribution instructions (+ more details)
         closer to the event.
 
+    - <<: *session
+      time: 14:00
 
-    - id: unconference
-      title: Unconference sessions
-      abstract: >-
-        At least some sessions will be reserved for an unconference:
-        open times when anyone may offer to present an ad-hoc talk,
-        demo, discussion, etc.  These ideas may come from other
-        discussions at the event.
+    - <<: *break
+      time: 14:30
+
+    - <<: *session
+      time: 14:45
+
+    - <<: *end
+
+    - <<: *dinner
 
 
+    #- id: unconference
+    #  title: Unconference sessions
+    #  location: main
+    #  abstract: >-
+    #    At least some sessions will be reserved for an unconference:
+    #    open times when anyone may offer to present an ad-hoc talk,
+    #    demo, discussion, etc.  These ideas may come from other
+    #    discussions at the event.
 
+
+  Wednesday:
+    - <<: *session
+      time: 9:00
     - id: panel
+      time: 9:30
       title: Panel discussion with junior computational researchers
+      location: main
       abstract: |
         Panel discussions are usually full of the most senior people
         the organizers can find.  In this discussion, we'll hear from
         junior researchers, about how usable they find computing
         systems and the onboarding process.
-
+    - <<: *break
+      time: 10:30
+    - <<: *session
+      time: 10:45
+    - id: outro2
+      time: 11:45
+      location: main
+      title: Concluding remarks
+    - <<: *lunch
 
     - id: funding
-      title: Funding discussion
+      time: 14:00
+      title: Local team funding discussion
+      location: main
       abstract: |
         How can universities get infrastructure funding for local
         Research Software Engineer support.  How can they work together?
