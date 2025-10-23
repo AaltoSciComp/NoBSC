@@ -9,10 +9,10 @@ Organizers
 * Local volunteers: open
 
 The organizers welcome others to take part in planning, either in
-short or long term.
+short or long term.  We communicate via the `CodeRefinery chat, #NoBSC
+channel <https://coderefinery.org/join/chat/>`__.  This is the same
+place that Nordic-RSE people hang out.
 
-Please join our chat in the #NoBSC channel in the `CodeRefinery
-zulipchat <https://coderefinery.zulipchat.com>`__ to contribute.
 
 
 Supported by

@@ -119,11 +119,15 @@ html_logo = "NoBSC-plant.png"
 
 
 import yaml
+schedule = yaml.safe_load(open('schedule.yaml'))
+schedule['sessions'] = sum(schedule['schedule'].values(), [])
 jinja2_contexts = {
     'ctx1': {
-        'schedule': yaml.safe_load(open('schedule.yaml'))
+        'schedule': schedule,
     }
 }
+
+
 import jinja2
 import markdown
 import markupsafe

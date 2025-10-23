@@ -44,7 +44,7 @@ schedule:
 
     # Events for Tuesday
 
-    - id: intro1
+    - #id: intro1
       time: 13:00
       location: main
       title: RC/SciComp team meetup intro
@@ -59,7 +59,52 @@ schedule:
       time: 13:10
       location: main
       short: short desc
-      contributors: Darst leads, everyone may present
-      abstract: >-
-        CTaP abstract
+      contributors: Darst facilitates, everyone may present
+      abstract: |
 
+        Our icebreaker of the workshop, and starting point for sharing
+        ideas.  Everyone (hopefully grouped into teams from their
+        organization) can present one slide of three cool things they have
+        done lately, and one slide of three problems they are facing
+        lately.  We will quickly go through these and use the talk as a
+        starting point for discussion - maybe a few unconference talks
+        can be requested from it.
+
+        The session will be built from a shared editable slide deck.
+        Attendees will get contribution instructions (+ more details)
+        closer to the event.
+
+
+    - id: unconference
+      title: Unconference sessions
+      abstract: >-
+        At least some sessions will be reserved for an unconference:
+        open times when anyone may offer to present an ad-hoc talk,
+        demo, discussion, etc.  These ideas may come from other
+        discussions at the event.
+
+
+
+    - id: panel
+      title: Panel discussion with junior computational researchers
+      abstract: |
+        Panel discussions are usually full of the most senior people
+        the organizers can find.  In this discussion, we'll hear from
+        junior researchers, about how usable they find computing
+        systems and the onboarding process.
+
+
+    - id: funding
+      title: Funding discussion
+      abstract: |
+        How can universities get infrastructure funding for local
+        Research Software Engineer support.  How can they work together?
+        This is a discussion, taking into account everything we have
+        learned at the workshop, to make some plans on what comes next.
+        Can we apply as a Finnish Research Infrastructure?  Can we
+        form an international NeIC project for this?  Any EU
+        opportunities?  Is it better to start local?  With large
+        computing clusters taking all the hype, what's the role of
+        local people?  We will try to figure this out.
+
+        Time: the last day after lunch.

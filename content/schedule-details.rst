@@ -32,7 +32,7 @@ Schedule
             <td>
             {% for event in sessions|rejectattr("location", "undefined")|selectattr("location", "eq", room) %}
                <b>
-                 {% if 'id' in event %}<a href="#{{event.id}}">{{ event.title }}</a>
+                 {% if 'id' in event %}<a href="../sessions/#{{event.id}}">{{ event.title }}</a>
                  {% else %}{{ event.title }}</a>
                  {% endif %}
                </b>
@@ -52,6 +52,12 @@ Schedule
      {% endfor %}
 
 
+
+..
+  .. jinja:: ctx1
+
+   Summary
+   -------
 
    {% for day_name, day in schedule.schedule|items%}
 
