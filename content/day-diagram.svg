@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="170mm"
+   height="80mm"
+   viewBox="0 0 170 80"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="day-diagram.svg"
+   inkscape:export-filename="day-diagram.png"
+   inkscape:export-xdpi="173.4"
+   inkscape:export-ydpi="173.4"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.1641073"
+     inkscape:cx="312.25645"
+     inkscape:cy="191.99261"
+     inkscape:window-width="1474"
+     inkscape:window-height="919"
+     inkscape:window-x="1429"
+     inkscape:window-y="891"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffffff">
+    <inkscape:grid
+       type="xygrid"
+       id="grid152"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="mm"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="path256"
+       cx="60.250008"
+       cy="50.24968"
+       rx="50"
+       ry="24.99968" />
+    <ellipse
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:stroke fill markers;stop-color:#000000"
+       id="path256-3"
+       cx="110.25"
+       cy="50.24968"
+       rx="50"
+       ry="24.99968" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="40"
+       y="10"
+       id="text494"><tspan
+         sodipodi:role="line"
+         id="tspan492"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="40"
+         y="10">Research (software)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="40"
+         y="20.583338"
+         id="tspan1129">engineers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="35.148758"
+       y="52.949104"
+       id="text494-5"><tspan
+         sodipodi:role="line"
+         style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="35.148758"
+         y="52.949104"
+         id="tspan1129-5">Day 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="85.069733"
+       y="52.981201"
+       id="text494-62"><tspan
+         sodipodi:role="line"
+         style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="85.069733"
+         y="52.981201"
+         id="tspan1129-1">Day 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="135.07466"
+       y="52.981201"
+       id="text494-2"><tspan
+         sodipodi:role="line"
+         style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="135.07466"
+         y="52.981201"
+         id="tspan1129-9">Day 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="128"
+       y="10"
+       id="text494-6"><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="128"
+         y="10"
+         id="tspan1127">People who work in</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="128"
+         y="20.583338"
+         id="tspan2">a local SciComp team</tspan></text>
+  </g>
+</svg>

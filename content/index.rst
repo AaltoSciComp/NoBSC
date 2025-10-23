@@ -36,6 +36,13 @@ events that are interesting to both audiences.  People are welcome to
 attend both halves, but we expect many attendees will only attend one
 half or the other.**
 
+.. image:: day-diagram.png
+   :width: 75%
+   :align: center
+   :alt: Venn diagram with "research software engineers" on the left
+	 and "People who work in a local SciComp team" on the right,
+	 with day 1, 2, and 3, with day 2 overlapping.
+
 This isn't a time to advertise how great our tools and services are.
 It's a time to look under the hood and talk about all the problems we
 encountered on the way (and the problems we expect in the future) so
@@ -45,15 +52,19 @@ we can get better.
 Topics
 ------
 
-We can talk about whatever is interesting to us: from past
-achievements, to future directions.
+You can submit talks/events, and also there will time for last-minute
+"unconference" submissions.  We can talk about whatever is interesting
+to us: from past achievements to future directions.
 
 * Academic experience as a research engineer.
 * Practical support (research software engineering, both practices and
   how we run our teams).
 * HPC cluster management (day to day problems and usability for small
-  projects and new users).
-* Teaching (practical teaching done for the previous two categories).
+  projects and new users); infrastructure usability.
+* Teaching and mentoring of our users (practical teaching done for the
+  previous two categories).
+* Our teams compared to giant national infrastructures; what is our
+  role?
 
 
 Schedule (general plan)
@@ -101,3 +112,10 @@ facilities.
 :doc:`registration`: To be opened later.
 
 **Online attendance:** this will probably be possible.
+
+Key dates:
+
+* 1 November: Registration opens (closes when full)
+* 7 January: First submission deadline, voting on talks begins
+* 1 January: Reconfirmation begins
+* 15 January: Final deadline for reconfirmation for meal reservations

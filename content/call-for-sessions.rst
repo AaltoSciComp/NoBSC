@@ -21,6 +21,10 @@ Our facilities include one main room (reserved), one breakout room
 (reserved), and various other places you can find in the building
 lobby areas for smaller discussion sessions (not reserved).
 
+**Selection process:** Right now our idea is to let attendees vote and
+allocate time based on votes.  So, when submitting, make sure to make
+the abstract somewhat generally available.
+
 
 Session inspirations
 --------------------
