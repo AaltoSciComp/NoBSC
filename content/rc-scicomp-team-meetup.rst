@@ -1,7 +1,7 @@
 Research/scientific computing team meetup
 =========================================
 
-About the Event
+About the event
 ---------------
 
 This meetup is targeted towards people in local Scientific Computing

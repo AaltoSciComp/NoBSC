@@ -30,11 +30,11 @@ possible). Aalto Otaniemi Campus, 2-4 February 2026.
 
 **The first half is a** :doc:`Finnish+friends RSE meetup
 <finnish-rse-meetup>` **, the second half is a** :doc:`meetup of local
-unit research and scientific computing teams more targeted to service
-staff <rc-scicomp-team-meetup>`\ **.  The overlapping middle day has
-events that are interesting to both audiences.  People are welcome to
-attend both halves, but we expect many attendees will only attend one
-half or the other.**
+research and scientific computing teams more targeted to service staff
+<rc-scicomp-team-meetup>`\ **.  The overlapping middle day has events
+that are interesting to both audiences.  People are welcome to attend
+both halves, but we expect many attendees will only attend one half or
+the other.**
 
 .. image:: day-diagram.png
    :width: 75%
