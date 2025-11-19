@@ -4,7 +4,7 @@ Finnish (+ friends) RSE Meetup
 About the Event
 ---------------
 
-The Finnish and friends RSE (Research Software Engineer) Meetup brings together people in Finland (and beyond) who develop or support research through software, data, and computing. Whether your title is RSE, scientist, data specialist, or IT support, if you’re helping research through code or computational tools - this event is for you. This is also for you, the RSE enthusiast, just enjoying the coding part of research work more or just as much as the research part. 
+The Finnish and friends RSE (Research Software Engineer) Meetup brings together people in Finland (and beyond) who develop or support research through software, data, and computing. Whether your title is RSE, scientist, data specialist, or IT support, if you’re helping research through code or computational tools - this event is for you. This is also for you, the RSE enthusiast, who enjoys the coding part of research work more or just as much as the research part. 
 
 Why a Finnish RSE Meetup?
 -------------------------
