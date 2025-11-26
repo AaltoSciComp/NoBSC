@@ -21,6 +21,7 @@ The funding application is lightweight and only a few questions, no need to writ
 If granted, meant to cover your travel expenses as well as one night of accomodation, up to 300 € per individual. 
 
 For the funding application you will need to provide the following information: 
+
 - Name, affiliation,  e-mail address
 - What do you hope to gain by attending?
 - What do you hope to contribute by attending?
