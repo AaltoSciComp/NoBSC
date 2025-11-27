@@ -43,7 +43,7 @@ Travel funding
 Thanks to the Software Sustainability Institute we have some travel funding (travel + one night accomodation)
 available for you to visit the RSE-FI meetup.
 
-More information coming soon. 
+More information can be found at :doc:`Travel funding for the RSE meetup <rse-travel>`
 
 Organizers
 ----------
