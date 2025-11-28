@@ -28,8 +28,8 @@ supporting scientific computing (and a celebration of the diverse work that make
 Aalto Scientific Computing invites to its homebased at Otaniemi Campus, 2-4 February 2026.
 
 **The first half is a** :doc:`Finnish+friends RSE meetup
-<finnish-rse-meetup>` **, the second half is a** :doc:`meetup of local
-research and scientific computing teams more targeted to service staff
+<finnish-rse-meetup>` **, the second half is a** :doc:`meetup of Finnish
+scientific computing teams more targeted to service staff
 <rc-scicomp-team-meetup>`\ **.  The overlapping middle day has events
 that are interesting to both audiences.  People are welcome to attend
 both halves.**
@@ -60,21 +60,7 @@ Schedule (general plan)
 * Day 2 (Tu, 3 Feb 2026): RSE/SciComp overlap day: events, lunch, evening dinner, some social activities scattered between.
 * Day 3 (We: 4 Feb 2026): SciComp team meetup: events 9-12, lunch.
 
-Example sessions:
 
-* Plenty of time for :doc:`submitted events <call-for-sessions>` and
-  networking.
-
-* **Cool things and problems:** each organization presents three cool
-  things they have done lately and three problems they are facing
-  right now.  This serves as a basis for networking during the rest of
-  the event.
-
-* **Panel discussion with junior computational researchers**: Panel
-  discussions are usually full of the most senior people the
-  organizers can find.  In this discussion, we'll hear from junior
-  researchers, about how usable they find computing systems and the
-  onboarding process.
 
 
 Quick info
@@ -84,7 +70,7 @@ Quick info
 
    :doc:`practical-info`
 
-**Location:** Dipoli, Aalto University, Espoo, Helsinki area, Finland
+**Location:** Dipoli, Otaniemi Campus, Aalto University, Espoo, Helsinki area, Finland
 
 **Price:** Free 
 
