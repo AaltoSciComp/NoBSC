@@ -37,4 +37,4 @@ Review and reimbursement process
                                                                          
 The applications will be reviewed by the SSI fellow Samantha Wittke and supported by the SSI if needed. 
 Once you are granted travel funding, you may book travel and accomodation yourself, and do the reimbursement directly with the SSI. 
-Please note that we cannot reimburse via organizations, only personal. You will need to fill out a short form with personal and banking info and provide receipts and bank statements for all purchases. Please choose the most economical option possible (prefer public transport in 2nd class, medium class hotel, etc.).
+Please note that we cannot reimburse via organizations, only personal. You will need to fill out a short form with personal and banking info and provide receipts and bank statements for all purchases. Please choose the most economical option possible (prefer public transport in 2nd class, medium class hotel, etc.). Instructions with link to reimbursement form will be sent later to the grant recipients. 
