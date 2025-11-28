@@ -23,18 +23,16 @@ Nordic Basic Scientific Computing 2026
    schedule
 
 
-Aalto Scientific Computing (ASC) invites you to its early 2026
-meetup - a gathering of everyone interested in supporting scientific
-computing (and a celebration of the diverse work that makes it all
-possible). Aalto Otaniemi Campus, 2-4 February 2026.
+Nordic Basic Scientific Computing is a gathering of everyone interested in 
+supporting scientific computing (and a celebration of the diverse work that makes it all possible).
+Aalto Scientific Computing invites to its homebased at Otaniemi Campus, 2-4 February 2026.
 
 **The first half is a** :doc:`Finnish+friends RSE meetup
 <finnish-rse-meetup>` **, the second half is a** :doc:`meetup of local
 research and scientific computing teams more targeted to service staff
 <rc-scicomp-team-meetup>`\ **.  The overlapping middle day has events
 that are interesting to both audiences.  People are welcome to attend
-both halves, but we expect many attendees will only attend one half or
-the other.**
+both halves.**
 
 .. image:: day-diagram.png
    :width: 75%
@@ -103,19 +101,18 @@ Quick info
 
 **Location:** Dipoli, Aalto University, Espoo, Helsinki area, Finland
 
-**Price:** Free (you pay your own food) or at-cost (depending on the
-number of registrations).  Aalto Scientific Computing sponsors the
-facilities.
-
-**Food:** Reservations at restaurants in the campus area.
+**Price:** Free 
 
 :doc:`registration`: To be opened later.
 
-**Online attendance:** this will probably be possible.
+Online attendance: We’ve chosen to hold this event in person only, as we believe it offers the best environment for meaningful networking and a more engaging, collaborative atmosphere.
+
 
 Key dates:
 
-* 1 November: Registration opens (closes when full)
-* 7 January: First submission deadline, voting on talks begins
-* 1 January: Reconfirmation begins
-* 15 January: Final deadline for reconfirmation for meal reservations
+* 3 December: Registration and submission opens
+* (Ongoing) Rolling acceptance of talks, posters, demos,...
+* 7 January: Submission deadline
+* Latest on 20 January:  We will inform speakers about their talk length
+
+
