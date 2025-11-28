@@ -10,8 +10,7 @@ Who can apply?
 ---------------
 
 We are committed to fostering and supporting a diverse, equitable and inclusive research software community. 
-With this travel funding we would like to make it possible for RSE enthusiasts or new RSEs outside the capital region of Finland
-to join the community via this event.
+We especially welcome applications from those living outside the Helsinki area who could not attend without travel support.
 
 
 How to apply?
