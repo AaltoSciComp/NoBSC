@@ -22,7 +22,7 @@ If granted, meant to cover your travel expenses as well as one night of accomoda
 
 For the funding application you will need to provide the following information (short and clear): 
 
-- Name, affiliation,  e-mail address
+- Name, affiliation, e-mail address
 - What do you hope to gain by attending?
 - What do you hope to contribute by attending?
 - A Rough breakdown of estimated travel and accomodation costs (max 300€)
