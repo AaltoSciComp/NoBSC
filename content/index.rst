@@ -47,22 +47,7 @@ encountered on the way (and the problems we expect in the future) so
 we can get better.
 
 
-Topics
-------
 
-You can submit talks/events, and also there will time for last-minute
-"unconference" submissions.  We can talk about whatever is interesting
-to us: from past achievements to future directions.
-
-* Academic experience as a research engineer.
-* Practical support (research software engineering, both practices and
-  how we run our teams).
-* HPC cluster management (day to day problems and usability for small
-  projects and new users); infrastructure usability.
-* Teaching and mentoring of our users (practical teaching done for the
-  previous two categories).
-* Our teams compared to giant national infrastructures; what is our
-  role?
 
 
 Schedule (general plan)
