@@ -19,19 +19,22 @@ Rough draft
    :header-rows: 1
 
    * * Day
+     * Topic
      * General plan
    * * 2 February
+     * RSE
      * * 11:00 start time
        * Lunch
        * 17:00 End of day
        * Evening: Semi-organized dinner
    * * 3 February
+     * Interesting overlap of day1/day2
      * * 9:00 start time
        * Lunch
        * 17:00 End of day
        * Evening: Semi-organized dinner
    * * 4 February
+     * SciComp/RSE teams
      * * 9:00 start time
-       * Some invited keynote talks
        * Lunch
        * ~13:00 Ending
