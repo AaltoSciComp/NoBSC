@@ -23,9 +23,11 @@ Nordic Basic Scientific Computing 2026
    schedule
 
 
-Nordic Basic Scientific Computing is a gathering of everyone interested in 
-supporting scientific computing (and a celebration of the diverse work that makes it all possible).
-Aalto Scientific Computing invites to its homebased at Otaniemi Campus, 2-4 February 2026.
+Nordic Basic Scientific Computing is a gathering of everyone
+interested in supporting scientific computing (and a celebration of
+the diverse work that makes it all possible).  Aalto Scientific
+Computing invites to its homebased at Otaniemi Campus, 2-4
+February 2026.
 
 **The first half is a** :doc:`Finnish+friends RSE meetup
 <finnish-rse-meetup>` **, the second half is a** :doc:`meetup of Finnish
@@ -44,7 +46,8 @@ both halves.**
 This isn't a time to advertise how great we are.  It's a time to look
 under the hood and talk about what's really going on, so that we can
 do a better job in the future.  If your job is "getting stuff done"
-instead of "publishing papers", this is the meeting for you.
+instead of "publishing papers" and you want to learn from like-minded
+people, this is the meeting for you.
 
 
 Schedule (general plan)
@@ -67,18 +70,20 @@ Quick info
 
 **Location:** Dipoli, Otaniemi Campus, Aalto University, Espoo, Helsinki area, Finland
 
-**Price:** Free 
+**Price:** Free
 
 :doc:`registration`: To be opened later.
 
-Online attendance: We’ve chosen to hold this event in person only, as we believe it offers the best environment for meaningful networking and a more engaging, collaborative atmosphere.
-
+Online attendance: We’ve chosen to hold this event in person only, as
+we believe it offers the best environment for meaningful networking
+and a more engaging, collaborative atmosphere.
 
 Key dates:
 
-* 3 December: Registration and submission opens
-* (Ongoing) Rolling acceptance of talks, posters, demos,...
-* 7 January: Submission deadline
-* Latest on 20 January:  We will inform speakers about their talk length
-
-
+* 1 December: Registration opens (closes when full)
+* (ongoing) Rolling acceptance of talks (posters, demos, other
+  contributions?)
+* 7 January: First submission deadline, voting on talks begins (all
+  relevant talks accepted, length will be decided later by voting).
+* 20 January: Talk length decided (latest)
+* 2-4 February: NoBSC
