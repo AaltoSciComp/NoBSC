@@ -7,7 +7,7 @@ and dinners and distribute to various restaurants.  We will provide
 long times for coffee breaks and lunches and make sure that everyone
 can find an engaging group to be a part of.
 
-Maximum capicity 50 but ideal size 30.
+The event is intended to be relatively small to facilitate networking.
 
 Online attendiance will probably be possible, but we havn't set it up
 yet.
