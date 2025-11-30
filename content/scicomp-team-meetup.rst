@@ -1,5 +1,5 @@
-Research/scientific computing team meetup
-=========================================
+Scientific computing team meetup
+================================
 
 About the event
 ---------------

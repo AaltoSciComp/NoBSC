@@ -5,7 +5,7 @@ Nordic Basic Scientific Computing 2026
    :hidden:
 
    finnish-rse-meetup
-   rc-scicomp-team-meetup
+   scicomp-team-meetup
 
 .. toctree::
    :hidden:
@@ -30,7 +30,7 @@ Aalto Scientific Computing invites to its homebased at Otaniemi Campus, 2-4 Febr
 **The first half is a** :doc:`Finnish+friends RSE meetup
 <finnish-rse-meetup>` **, the second half is a** :doc:`meetup of Finnish
 scientific computing teams more targeted to service staff
-<rc-scicomp-team-meetup>`\ **.  The overlapping middle day has events
+<scicomp-team-meetup>`\ **.  The overlapping middle day has events
 that are interesting to both audiences.  People are welcome to attend
 both halves.**
 
