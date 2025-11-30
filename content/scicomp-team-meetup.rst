@@ -26,12 +26,16 @@ collaboration.  Really, if you work with Aalto Scientific Computing
 you are strongly invited and we'll have some fun discussions.  If you
 don't, you are invited anyway.
 
-We especially welcome people who support academic research through
-computing and data expertise in universities and research
-institutions, for example those in local HPC or RSE teams, cloud
-computing, and other computing services for researchers. But everyone
-is welcome: including Academic researchers, data managers, open
-science experts and anyone interested in these topics.
+Academic conferences usually don't suit us, but we need a community.
+Our job is important and challenging, and we can't do it alone.  NoBSC
+is the right level for the networking we need to succeed at our jobs.
+
+In this first iteration, we especially welcome people who support
+academic research through computing and data expertise in universities
+and research institutions, for example those in local HPC or RSE
+teams, cloud computing, and other computing services for
+researchers. But everyone is welcome: including those who might want
+these kind of jobs in the future.
 
 
 Program ideas
