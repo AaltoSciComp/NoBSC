@@ -26,7 +26,7 @@ Nordic Basic Scientific Computing 2026
 Aalto Scientific Computing (ASC) invites you to its early 2026
 meetup - a gathering of everyone interested in supporting scientific
 computing (and a celebration of the diverse work that makes it all
-possible). Aalto Otaniemi Campus, 2-4 February 2026.
+possible), at the Aalto University Otaniemi Campus, 2-4 February 2026.
 
 **The first half is a** :doc:`Finnish+friends RSE meetup
 <finnish-rse-meetup>` **, the second half is a** :doc:`meetup of local
@@ -43,27 +43,27 @@ the other.**
 	 and "People who work in a local SciComp team" on the right,
 	 with day 1, 2, and 3, with day 2 overlapping.
 
-This isn't a time to advertise how great our tools and services are.
-It's a time to look under the hood and talk about all the problems we
-encountered on the way (and the problems we expect in the future) so
-we can get better.
+This isn't a time to advertise how great we are.  It's a time to look
+under the hood and talk about what's really going on, so that we can
+do a better job in the future.  If your job is "getting stuff done"
+instead of "publishing papers", this is the meeting for you.
 
 
 Topics
 ------
 
-You can submit talks/events, and also there will time for last-minute
-"unconference" submissions.  We can talk about whatever is interesting
-to us: from past achievements to future directions.
+We are collecting submissions for talks and other sessions, but there
+will time for last-minute "unconference" submissions decided during
+the meetup itself.  Some sample topics from past meetups have included:
 
-* Academic experience as a research engineer.
-* Practical support (research software engineering, both practices and
-  how we run our teams).
+* Academic experience as a research engineer and career development.
+* Practical support strategies (research software engineering, both
+  practices and how we run our teams).
 * HPC cluster management (day to day problems and usability for small
   projects and new users); infrastructure usability.
 * Teaching and mentoring of our users (practical teaching done for the
   previous two categories).
-* Our teams compared to giant national infrastructures; what is our
+* Our teams compared to giant national infrastructures: what is our
   role?
 
 
