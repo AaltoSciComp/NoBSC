@@ -23,18 +23,16 @@ Nordic Basic Scientific Computing 2026
    schedule
 
 
-Aalto Scientific Computing (ASC) invites you to its early 2026
-meetup - a gathering of everyone interested in supporting scientific
-computing (and a celebration of the diverse work that makes it all
-possible), at the Aalto University Otaniemi Campus, 2-4 February 2026.
+Nordic Basic Scientific Computing is a gathering of everyone interested in 
+supporting scientific computing (and a celebration of the diverse work that makes it all possible).
+Aalto Scientific Computing invites to its homebased at Otaniemi Campus, 2-4 February 2026.
 
 **The first half is a** :doc:`Finnish+friends RSE meetup
-<finnish-rse-meetup>` **, the second half is a** :doc:`meetup of local
-research and scientific computing teams more targeted to service staff
+<finnish-rse-meetup>` **, the second half is a** :doc:`meetup of Finnish
+scientific computing teams more targeted to service staff
 <rc-scicomp-team-meetup>`\ **.  The overlapping middle day has events
 that are interesting to both audiences.  People are welcome to attend
-both halves, but we expect many attendees will only attend one half or
-the other.**
+both halves.**
 
 .. image:: day-diagram.png
    :width: 75%
@@ -49,24 +47,6 @@ do a better job in the future.  If your job is "getting stuff done"
 instead of "publishing papers", this is the meeting for you.
 
 
-Topics
-------
-
-We are collecting submissions for talks and other sessions, but there
-will time for last-minute "unconference" submissions decided during
-the meetup itself.  Some sample topics from past meetups have included:
-
-* Academic experience as a research engineer and career development.
-* Practical support strategies (research software engineering, both
-  practices and how we run our teams).
-* HPC cluster management (day to day problems and usability for small
-  projects and new users); infrastructure usability.
-* Teaching and mentoring of our users (practical teaching done for the
-  previous two categories).
-* Our teams compared to giant national infrastructures: what is our
-  role?
-
-
 Schedule (general plan)
 -----------------------
 
@@ -77,22 +57,6 @@ Schedule (general plan)
 * Day 2 (Tu, 3 Feb 2026): RSE/SciComp overlap day: events, lunch, evening dinner, some social activities scattered between.
 * Day 3 (We: 4 Feb 2026): SciComp team meetup: events 9-12, lunch.
 
-Example sessions:
-
-* Plenty of time for :doc:`submitted events <call-for-sessions>` and
-  networking.
-
-* **Cool things and problems:** each organization presents three cool
-  things they have done lately and three problems they are facing
-  right now.  This serves as a basis for networking during the rest of
-  the event.
-
-* **Panel discussion with junior computational researchers**: Panel
-  discussions are usually full of the most senior people the
-  organizers can find.  In this discussion, we'll hear from junior
-  researchers, about how usable they find computing systems and the
-  onboarding process.
-
 
 Quick info
 ----------
@@ -101,21 +65,20 @@ Quick info
 
    :doc:`practical-info`
 
-**Location:** Dipoli, Aalto University, Espoo, Helsinki area, Finland
+**Location:** Dipoli, Otaniemi Campus, Aalto University, Espoo, Helsinki area, Finland
 
-**Price:** Free (you pay your own food) or at-cost (depending on the
-number of registrations).  Aalto Scientific Computing sponsors the
-facilities.
-
-**Food:** Reservations at restaurants in the campus area.
+**Price:** Free 
 
 :doc:`registration`: To be opened later.
 
-**Online attendance:** this will probably be possible.
+Online attendance: We’ve chosen to hold this event in person only, as we believe it offers the best environment for meaningful networking and a more engaging, collaborative atmosphere.
+
 
 Key dates:
 
-* 1 November: Registration opens (closes when full)
-* 7 January: First submission deadline, voting on talks begins
-* 1 January: Reconfirmation begins
-* 15 January: Final deadline for reconfirmation for meal reservations
+* 3 December: Registration and submission opens
+* (Ongoing) Rolling acceptance of talks, posters, demos,...
+* 7 January: Submission deadline
+* Latest on 20 January:  We will inform speakers about their talk length
+
+
