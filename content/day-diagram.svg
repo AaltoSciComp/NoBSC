@@ -28,12 +28,12 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.1641073"
-     inkscape:cx="312.25645"
-     inkscape:cy="191.99261"
+     inkscape:cx="329.00747"
+     inkscape:cy="267.58702"
      inkscape:window-width="1474"
      inkscape:window-height="919"
-     inkscape:window-x="1429"
-     inkscape:window-y="891"
+     inkscape:window-x="1413"
+     inkscape:window-y="899"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#ffffffff">
@@ -48,7 +48,27 @@
        visible="true" />
   </sodipodi:namedview>
   <defs
-     id="defs2" />
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -132,5 +152,218 @@
          x="128"
          y="20.583338"
          id="tspan2">a local SciComp team</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="84.98201"
+       y="43.117847"
+       id="text494-9"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="84.98201"
+         y="43.117847"
+         id="tspan1129-19">Career paths</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="117.57097"
+       y="70.172638"
+       id="text494-9-3"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="117.57097"
+         y="70.172638"
+         id="tspan1129-19-2">Team funding</tspan></text>
+    <g
+       id="g1"
+       transform="translate(11.296988,27.254003)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+         x="43.703014"
+         y="38.745998"
+         id="text494-9-6"><tspan
+           sodipodi:role="line"
+           style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="43.703014"
+           y="38.745998"
+           id="tspan1129-19-1">Cool stuff</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="43.703014"
+           y="44.037659"
+           id="tspan1">you've learned</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="51.059269"
+       y="36.117847"
+       id="text494-9-5"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="51.059269"
+         y="36.117847"
+         id="tspan5">Cool stuff</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="51.059269"
+         y="41.409512"
+         id="tspan12">you've made</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="60.89946"
+       y="30.54199"
+       id="text494-9-5-2"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="60.89946"
+         y="30.54199"
+         id="tspan12-6">Nordic-RSE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="29.000002"
+       y="39"
+       id="text494-9-5-1"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="29.000002"
+         y="39"
+         id="tspan5-9">PhDs and</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="29.000002"
+         y="44.291664"
+         id="tspan9">postdocs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="112.00001"
+       y="29"
+       id="text494-9-65"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="112.00001"
+         y="29"
+         id="tspan1129-19-6">Cross-org</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="112.00001"
+         y="34.291664"
+         id="tspan6">networking</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="143.89629"
+       y="39.117847"
+       id="text494-9-65-2"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="143.89629"
+         y="39.117847"
+         id="tspan6-2">Old</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="143.89629"
+         y="44.409508"
+         id="tspan16">FCCI collab</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="85.000008"
+       y="38"
+       id="text494-9-2"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="85.000008"
+         y="38"
+         id="tspan1129-19-5">Networking</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="85.000008"
+       y="59"
+       id="text494-9-2-9"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="85.000008"
+         y="59"
+         id="tspan14">Interesting</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="85.000008"
+         y="64.291664"
+         id="tspan15">overlap</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="31.609358"
+       y="57.76099"
+       id="text494-9-7"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="31.609358"
+         y="57.76099"
+         id="tspan7">Personal funding</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="31.609358"
+         y="63.05265"
+         id="tspan18">ideas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="134"
+       y="58"
+       id="text494-9-0"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="134"
+         y="58"
+         id="tspan1129-19-7">New Finland/international</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="134"
+         y="63.29166"
+         id="tspan8">collaborations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="121.00001"
+       y="39"
+       id="text494-9-68"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="121.00001"
+         y="39"
+         id="tspan1129-19-8">Local infra</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="121.00001"
+         y="44.291664"
+         id="tspan11">strategies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="130.95238"
+       y="33.100914"
+       id="text494-9-5-0"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="130.95238"
+         y="33.100914"
+         id="tspan10">Staff</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.75;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle);paint-order:stroke fill markers"
+       d="m 60.000003,60.000002 h 11"
+       id="path13"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.75;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle);paint-order:stroke fill markers"
+       d="M 110.00001,60.000002 H 99.000005"
+       id="path13-7"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
