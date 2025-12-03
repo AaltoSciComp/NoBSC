@@ -54,19 +54,3 @@ on the spot during the event. Maybe you'll invite someone to run a session inspi
 informal coffee conversation, or you'll discover that several attendees are curious to hear 
 more about something you're working on. 
 The unconference time is meant exactly for those spontaneous, interest-driven sessions.
-
-
-Request a session
------------------
-
-If you have things you would like to hear/do, please submit this as part 
-of your registration and we'll see if we can find someone to present.
-We'll probably contact all registrants to see who can take one of
-them.
-
-- Open OnDemand
-- Research Software Engineer funding in your institutions or countries.
-- ...
-- ...
-- ...
-- ...
