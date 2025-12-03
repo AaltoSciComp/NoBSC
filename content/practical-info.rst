@@ -13,7 +13,8 @@ Espoo``.
 Food
 ----
 
-For the Finnish and Friends RSE meetup on Monday/Tuesday we will have food available according to dietary restrictions provided during registration. 
+For the Finnish and Friends RSE meetup on Monday/Tuesday we will have food 
+available according to dietary restrictions provided during registration. 
 For others we will have a reservation at restaurants in the campus area.  These restaurants can
 generally cater to all common diets, including vegetarian, vegan,
 gluten free, and lactose free.  There are also two grocery stores at
@@ -92,6 +93,7 @@ Select the appropriate zones (AB or ABC) at the blue readers (before
 getting on the metro, after boarding bus/train/tram), then show your
 card.  `More info and ways to pay
 <https://www.hsl.fi/en/tickets-and-fares>`__.
+
 
 Code of conduct
 ---------------

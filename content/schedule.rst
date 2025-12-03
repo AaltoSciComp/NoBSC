@@ -4,7 +4,7 @@ Schedule
 When to attend
 --------------
 
-* **For the Finnish-RSE meetup**, attend lunch (or earlier) on 2 Feb
+* **For the Finnish-RSE meetup**, attend lunch on 2 Feb
   to lunch or dinner on 3 Feb.
 * **For the SciComp team meetup**, attend 3 Feb until lunch on Feb 4.
 * The overlapping day is events of interest to both groups.
