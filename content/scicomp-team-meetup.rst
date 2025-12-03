@@ -51,6 +51,14 @@ We can especially talk about:
   our benefit or make (inter-)national collaborations. (Dedicated
   session: Wednesday afternoon)
 
+Cool things and problems
+------------------------
+
+Everyone will have a chance to (and be encouraged) to contribute to
+the session "Cool things and problems".  In this, each team presents
+three cool things they are doing, and three problems they are facing.
+We can then see.
+
 Good to know
 -------------
 

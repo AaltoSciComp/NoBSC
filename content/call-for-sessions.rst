@@ -1,33 +1,37 @@
-Call for sessions
-=================
+Call for contributions
+=======================
 
-Everyone is asked to contribute to "cool things and problems".
-
-Remember, the theme of this conference is how we actually work and
+The theme of this conference is how we actually work and
 "the problems we found along the way", not "advertising our product".
 You can present ideas, what you couldn't do, things you need advice
-on, and so on.  You can request time slots for lightning talks, short
-talks, long talks, breakout sessions, discussions, etc.
+on, and so on.  You can request time slots for lightning talks, normal
+talks, posters or suggest a discussion session. 
+If there are too many long talk requests, we will open a voting for the time 
+to not have to decline any submitted talks. Only the length may change.
 
 **Submissions will open later.**
 
 
-Submit a session
-----------------
+Submit a contribution
+----------------------
 
-You'll be able to submit talks/demos/workshops/etc. you'd like to give.
+You'll be able to submit talks, demos, or posters you'd like to present.
 
-Our facilities include one main room (reserved), one breakout room
-(reserved), and various other places you can find in the building
-lobby areas for smaller discussion sessions (not reserved).
+Our facilities include one main room (reserved), one breakout room (reserved), 
+and several informal spaces throughout the building’s lobby areas that can be used 
+for smaller discussion sessions (not reserved).
 
-**Selection process:** Right now our idea is to let attendees vote and
-allocate time based on votes.  So, when submitting, make sure to make
-the abstract somewhat generally available.
+**Selection process:**
+We will review all submissions to make sure they align with the spirit of the event. 
+Our goal is to accept as many contributions as possible. At the moment, 
+our plan is to let attendees vote and allocate time slots based on those votes. 
+When submitting, please keep your abstract concise and accessible to a general audience.
+
+In short: Your contribution will most likely be accepted, the main question is how much time you'll have to present.
 
 
-Session inspirations
---------------------
+Contribution inspirations
+---------------------------
 
 **You are allowed to come with a question instead of a solution.**
 
@@ -36,36 +40,27 @@ Session inspirations
 * Cool software I have developed.
 * Book/video/event review and summary.
 * Problem or concern I am facing now.
-* Demo and/or hack times.
+* Demo or poster about something you would like to have input on.
 
-You can say how long your session should be: lightning talk (5 min),
-30 min, longer breakout discussion/workshop.  You can submit multiple
-events and your priority for each.
-
-
-Cool things and problems
-------------------------
-
-Everyone will have a chance to (and be encouraged) to contribute to
-the session "Cool things and problems".  In this, each team presents
-three cool things they are doing, and three problems they are facing.
-We can then see.
-
+You can request how long your session should be: lightning talk (10 min),
+20 min talk, poster/demo spot. 
+You will get to know your assigned length in time before the event.
 
 Unconference
 ------------
 
-We will also save some time for an "unconference": sessions request
-right during the conference.  Perhaps you'll ask someone to make a
-session based on informal discussions.
+We'll also set aside time for an unconference: sessions that can be proposed or requested 
+on the spot during the event. Maybe you'll invite someone to run a session inspired by an 
+informal coffee conversation, or you'll discover that several attendees are curious to hear 
+more about something you're working on. 
+The unconference time is meant exactly for those spontaneous, interest-driven sessions.
 
 
 Request a session
 -----------------
 
-If you have things you would like to hear/do, but can't organize
-yourself, please submit this as part of your registration or via the
-submission form and we'll see if we can find someone to present.
+If you have things you would like to hear/do, please submit this as part 
+of your registration and we'll see if we can find someone to present.
 We'll probably contact all registrants to see who can take one of
 them.
 
