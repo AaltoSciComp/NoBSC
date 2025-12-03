@@ -51,6 +51,13 @@ We can especially talk about:
   our benefit or make (inter-)national collaborations. (Dedicated
   session: Wednesday afternoon)
 
+Good to know
+-------------
+
+There is no registration fee, but also no food, snacks, coffe, and
+dinner provided for this part of the event.  
+We will have to divide into smaller groups for lunch
+and dinners and distribute to various restaurants.
 
 Organizers
 ----------

@@ -87,3 +87,20 @@ Key dates:
   relevant talks accepted, length will be decided later by voting).
 * 20 January: Talk length decided (latest)
 * 2-4 February: NoBSC
+
+Registration
+============
+
+  We will provide
+long times for coffee breaks and lunches and make sure that everyone
+can find an engaging group to be a part of.
+
+The event is intended to be relatively small to facilitate networking.
+
+Online attendiance will probably be possible, but we havn't set it up
+yet.
+
+.. admonition:: Registration link
+
+   Not yet opened.
+

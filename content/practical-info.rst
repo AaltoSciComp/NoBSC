@@ -92,3 +92,29 @@ Select the appropriate zones (AB or ABC) at the blue readers (before
 getting on the metro, after boarding bus/train/tram), then show your
 card.  `More info and ways to pay
 <https://www.hsl.fi/en/tickets-and-fares>`__.
+
+Code of conduct
+---------------
+
+Attendees are expected to follow the `Aalto University code of conduct
+<https://www.aalto.fi/en/aalto-university/code-of-conduct-values-into-practice>`__.
+Realisically you won't read it, so here the general idea :
+
+
+* There will be attendees at a wide variety of points in their
+  RSE/SciComp career. Try to understand them and help them go.
+
+* There will be attendees who know more or fewer other attendees.
+  Take active steps to include them in your conversations:
+
+  * Leave spaces in your circle for others to join, if you see someone
+    hovering, invite them in and fill them in on what you are talking
+    about.
+
+  * Give special attention to understanding who is in your discussion
+    groups and making sure you are talking at the right level.
+
+* This is a bottom-up event to support your networking. Please help out if see something to improve and you
+  have time and ability.
+
+* Tell Richard or Samantha if you need something.
