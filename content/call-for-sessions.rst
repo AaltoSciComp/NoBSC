@@ -9,7 +9,9 @@ talks, posters or suggest a discussion session.
 If there are too many long talk requests, we will open a voting for the time 
 to not have to decline any submitted talks. Only the length may change.
 
-**Submissions will open later.**
+.. admonition:: Abstract submission link
+
+   https://indico.neic.no/event/284/abstracts/
 
 
 Submit a contribution

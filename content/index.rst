@@ -12,7 +12,7 @@ Nordic Basic Scientific Computing 2026
    :caption: Information
 
    practical-info
-   registration
+   Registration form <https://indico.neic.no/event/284/registrations/>
    about
 
 .. toctree::
@@ -20,6 +20,7 @@ Nordic Basic Scientific Computing 2026
    :caption: Program
 
    call-for-sessions
+   Submission form <https://indico.neic.no/event/284/abstracts/j>
    schedule
 
 
@@ -72,10 +73,6 @@ Quick info
 
 **Price:** Free
 
-:doc:`call-for-sessions`: To be opened later.
-
-:doc:`registration`: To be opened later.
-
 Key dates:
 
 * 1 December: Registration opens (closes when full)
@@ -100,6 +97,6 @@ we believe it offers the best environment for meaningful networking
 and a more engaging, collaborative atmosphere.
 
 .. admonition:: Registration link
+   :class: important
 
-   Not yet opened.
-
+   https://indico.neic.no/event/284/registrations/
