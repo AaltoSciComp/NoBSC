@@ -6,6 +6,8 @@ Organizers
 
 * Richard Darst, Aalto University (co-lead, RC/SciComp part)
 * Samantha Wittke, CSC - IT Center for Science (co-lead, RSE-FI)
+* Luca Ferranti, Aalto University
+* Ina Pöhner, University of Eastern Finland
 * Local volunteers: open
 
 The organizers welcome others to take part in planning, either in
@@ -18,10 +20,10 @@ place that Nordic-RSE people hang out.
 Supported by
 ------------
 
-* Aalto Scientific Computing (Science-IT): (Staff time, sponsoring all facilities)
-* CSC - IT Center for Science (EuroCC2 project) : (Staff time)
-* Software Sustainability Institute (through fellowship of Samantha Wittke): (Travel funding, planning support)
-
+* Aalto Scientific Computing (Science-IT): Staff time, sponsoring all facilities
+* CSC - IT Center for Science (EuroCC2 project) : Staff time
+* Software Sustainability Institute (through fellowship of Samantha Wittke): Travel funding, planning support
+* [Society of Research Software Engineering](https://society-rse.org/) : Catering support
 
 History of NoBSC
 ----------------

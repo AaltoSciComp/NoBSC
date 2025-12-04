@@ -56,7 +56,7 @@ Schedule (general plan)
 .. seealso:: :doc:`schedule`
 
 * Day 0 (Su, 1 Feb 2026): If anyone arrives early, grilling dinner in a Finnish forest (if enough people want to brave the cold).
-* Day 1 (Mo, 2 Feb 2026): RSE meetup
+* Day 1 (Mo, 2 Feb 2026): RSE meetup, starting with lunch at 11
 * Day 2 (Tu, 3 Feb 2026): RSE/SciComp overlap day: events, lunch, evening dinner, some social activities scattered between.
 * Day 3 (We: 4 Feb 2026): SciComp team meetup: events 9-12, lunch.
 
@@ -72,18 +72,34 @@ Quick info
 
 **Price:** Free
 
-:doc:`registration`: To be opened later.
+:doc:`call-for-sessions`: To be opened later.
 
-Online attendance: We’ve chosen to hold this event in person only, as
-we believe it offers the best environment for meaningful networking
-and a more engaging, collaborative atmosphere.
+:doc:`registration`: To be opened later.
 
 Key dates:
 
 * 1 December: Registration opens (closes when full)
 * (ongoing) Rolling acceptance of talks (posters, demos, other
   contributions?)
-* 7 January: First submission deadline, voting on talks begins (all
+* 7 January: First submission deadline, if needed: voting on talks begins (all
   relevant talks accepted, length will be decided later by voting).
 * 20 January: Talk length decided (latest)
 * 2-4 February: NoBSC
+
+Registration
+============
+
+We will provide
+long times for coffee breaks and lunches and make sure that everyone
+can find an engaging group to be a part of.
+
+The event is intended to be relatively small to facilitate networking.
+
+Online attendance: We've chosen to hold this event in person only, as
+we believe it offers the best environment for meaningful networking
+and a more engaging, collaborative atmosphere.
+
+.. admonition:: Registration link
+
+   Not yet opened.
+

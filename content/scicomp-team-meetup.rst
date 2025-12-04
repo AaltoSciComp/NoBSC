@@ -51,6 +51,21 @@ We can especially talk about:
   our benefit or make (inter-)national collaborations. (Dedicated
   session: Wednesday afternoon)
 
+Cool things and problems
+------------------------
+
+Everyone will have a chance to (and be encouraged) to contribute to
+the session "Cool things and problems".  In this, each team presents
+three cool things they are doing, and three problems they are facing.
+We can then see.
+
+Good to know
+-------------
+
+There is no registration fee, but also no food, snacks, coffe, and
+dinner provided for this part of the event.  
+We will have to divide into smaller groups for lunch
+and dinners and distribute to various restaurants.
 
 Organizers
 ----------
