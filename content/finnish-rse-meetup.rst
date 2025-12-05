@@ -48,14 +48,14 @@ Good to know
 
 This part of the event is sponsored by the `Society of Research Software Engineering <https://society-rse.org/>`__.
 Therefore we can keep the registration for free and offer lunch, coffee and snacks during the event. 
-Therefore, please only register, if you plan to attend in person to avoid any food waste. 
+Therefore, please only register to this second half of the event, if you plan to attend in person to avoid any food waste. 
 
 
 Travel funding
 ---------------
 
 Thanks to the `Software Sustainability Institute <https://www.software.ac.uk/>`__ we have some travel funding
-(travel + one night accomodation) available for you to visit the RSE-FI meetup.
+(travel + one night accomodation) available for you to visit the RSE-FI meetup (day 1+2).
 
 More information at :doc:`Travel funding for the RSE meetup <rse-travel>`
 

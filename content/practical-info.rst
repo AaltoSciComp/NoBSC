@@ -6,7 +6,7 @@ Location
 --------
 
 Aalto University Campus, (Espoo), Helsinki Area.  If you search
-``Dipoli`` it should find it, the address is ``Otakaari 24, 02150
+``Dipoli`` in a map service it should find it, the address is ``Otakaari 24, 02150
 Espoo``.
 
 
@@ -18,7 +18,7 @@ available according to dietary restrictions provided during registration.
 For others we will have a reservation at restaurants in the campus area.  These restaurants can
 generally cater to all common diets, including vegetarian, vegan,
 gluten free, and lactose free.  There are also two grocery stores at
-the metro station (A entrance).
+the metro station (`A` entrance).
 
 
 Map
