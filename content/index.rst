@@ -71,7 +71,7 @@ Quick info
 
 **Program:** You can submit talks and other events in advance, but we
 also plan an "`unconference
-<https://en.wikipedia.org/wiki/Unconference>__" (program decided by
+<https://en.wikipedia.org/wiki/Unconference>__`" (program decided by
 attendees) in the second half.
 
 Key dates:
