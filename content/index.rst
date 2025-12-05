@@ -70,15 +70,14 @@ Quick info
 **Price:** Free
 
 **Program:** You can submit talks and other events in advance, but we
-also plan an "`unconference
+also plan an "`unconference session
 <https://en.wikipedia.org/wiki/Unconference>__`" (program decided by
-attendees) in the second half.
+attendees)..
 
 Key dates:
 
 * 5 December: Registration opens (closes when full)
-* Rolling acceptance of talks (posters, demos, other
-  contributions)
+* Rolling acceptance of talks, posters/demos
 * 7 January: First submission deadline, if needed we will have a voting on talks (all
   relevant talks accepted, only length may be decided by voting).
 * 20 January: Talk length decided (latest)
