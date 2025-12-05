@@ -27,9 +27,10 @@ Nordic Basic Scientific Computing 2026
 Nordic Basic Scientific Computing is a gathering of everyone
 interested in supporting scientific computing (and a celebration of
 the diverse work that makes it all possible).  Aalto Scientific
-Computing invites to its homebased at Otaniemi Campus, 2-4
+Computing invites you to its homebase at Otaniemi Campus, 2-4
 February 2026.
 
+This event is split into two halves: 
 **The first half is a** :doc:`Finnish+friends RSE meetup
 <finnish-rse-meetup>` **, the second half is a** :doc:`meetup of Finnish
 scientific computing teams more targeted to service staff
@@ -44,11 +45,7 @@ both halves.**
 	 and "People who work in a local SciComp team" on the right,
 	 with day 1, 2, and 3, with day 2 overlapping.
 
-This isn't a time to advertise how great we are like typical conferences.  It's a time to look
-under the hood and talk about what's really going on, so that we can
-do a better job in the future.  If your job is "getting stuff done"
-instead of "publishing papers" and you want to learn from like-minded
-people, this is the meeting for you.
+This event focuses on practical discussion and experience-sharing in the world of RSE and SciComp. Whether you develop research software, support researchers through local computing services or you are simply curious about these roles, this is gathering for you. It’s a time to roll up our sleeves, look under the hood and talk about what’s really going on. 
 
 
 Schedule (general plan)
@@ -56,7 +53,6 @@ Schedule (general plan)
 
 .. seealso:: :doc:`schedule`
 
-* Day 0 (Su, 1 Feb 2026): If anyone arrives early, grilling dinner in a Finnish forest (if enough people want to brave the cold).
 * Day 1 (Mo, 2 Feb 2026): RSE meetup, starting with lunch at 11
 * Day 2 (Tu, 3 Feb 2026): RSE/SciComp overlap day: events, lunch, evening dinner, some social activities scattered between.
 * Day 3 (We: 4 Feb 2026): SciComp team meetup: events 9-12, lunch.
@@ -80,13 +76,13 @@ attendees) in the second half.
 
 Key dates:
 
-* 1 December: Registration opens (closes when full)
-* (ongoing) Rolling acceptance of talks (posters, demos, other
-  contributions?)
-* 7 January: First submission deadline, if needed: voting on talks begins (all
-  relevant talks accepted, length will be decided later by voting).
+* 5 December: Registration opens (closes when full)
+* Rolling acceptance of talks (posters, demos, other
+  contributions)
+* 7 January: First submission deadline, if needed we will have a voting on talks (all
+  relevant talks accepted, only length may be decided by voting).
 * 20 January: Talk length decided (latest)
-* 2-4 February: NoBSC
+* 2-4 February: Nordic Basic Scientific Computing event 
 
 Registration
 ============
