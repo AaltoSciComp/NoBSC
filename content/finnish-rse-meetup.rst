@@ -46,7 +46,7 @@ By joining, you can:
 Good to know
 -------------
 
-This part of the event is sponsored by the [Society of Research Software Engineering](https://society-rse.org/). 
+This part of the event is sponsored by the `Society of Research Software Engineering <https://society-rse.org/>`__.
 Therefore we can keep the registration for free and offer lunch, coffee and snacks during the event. 
 Therefore, please only register, if you plan to attend in person to avoid any food waste. 
 
@@ -54,7 +54,7 @@ Therefore, please only register, if you plan to attend in person to avoid any fo
 Travel funding
 ---------------
 
-Thanks to the [Software Sustainability Institute](https://www.software.ac.uk/) we have some travel funding 
+Thanks to the `Software Sustainability Institute <https://www.software.ac.uk/>`__ we have some travel funding
 (travel + one night accomodation) available for you to visit the RSE-FI meetup.
 
 More information at :doc:`Travel funding for the RSE meetup <rse-travel>`

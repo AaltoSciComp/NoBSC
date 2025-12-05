@@ -20,7 +20,7 @@ Nordic Basic Scientific Computing 2026
    :caption: Program
 
    call-for-sessions
-   Submission form <https://indico.neic.no/event/284/abstracts/j>
+   Submission form <https://indico.neic.no/event/284/abstracts/>
    schedule
 
 
@@ -44,7 +44,7 @@ both halves.**
 	 and "People who work in a local SciComp team" on the right,
 	 with day 1, 2, and 3, with day 2 overlapping.
 
-This isn't a time to advertise how great we are.  It's a time to look
+This isn't a time to advertise how great we are like typical conferences.  It's a time to look
 under the hood and talk about what's really going on, so that we can
 do a better job in the future.  If your job is "getting stuff done"
 instead of "publishing papers" and you want to learn from like-minded
@@ -72,6 +72,11 @@ Quick info
 **Location:** Dipoli, Otaniemi Campus, Aalto University, Espoo, Helsinki area, Finland
 
 **Price:** Free
+
+**Program:** You can submit talks and other events in advance, but we
+also plan an "`unconference
+<https://en.wikipedia.org/wiki/Unconference>__" (program decided by
+attendees) in the second half.
 
 Key dates:
 
