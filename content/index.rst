@@ -22,6 +22,7 @@ Nordic Basic Scientific Computing 2026
    call-for-sessions
    Submission form <https://indico.neic.no/event/284/abstracts/>
    schedule
+   sessions
 
 
 Nordic Basic Scientific Computing is a gathering of everyone
