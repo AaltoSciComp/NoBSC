@@ -2,7 +2,7 @@ List of sessions
 ================
 
 This list currently only has the pre-planned "keynote" sessions
-invited by the organizers.
+invited by the organizers for the SciComp meetup (the second half).
 
 
 Discussion: The current hardest legal questions in research data and computing

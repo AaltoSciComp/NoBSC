@@ -9,6 +9,15 @@ talks, posters or suggest a discussion session.
 If there are too many long talk requests, we will open a voting for the time 
 to not have to decline any submitted talks. Only the length may change.
 
+.. admonition:: RSE-FI vs SciComp teams
+
+   You can submit to either part in advance, but
+
+   * RSE-FI is more focused on advanced submissions
+   * SciComp teams is more focused on being an `unconference
+     <https://en.wikipedia.org/wiki/Unconference>`__ (we collect ideas
+     dynamically during the meeting and allocate time then)
+
 .. admonition:: Abstract submission link
 
    https://indico.neic.no/event/284/abstracts/
