@@ -85,7 +85,7 @@ Key dates:
 * 2-4 February: Nordic Basic Scientific Computing event 
 
 Registration
-============
+------------
 
 We will provide
 long times for coffee breaks and lunches and make sure that everyone
