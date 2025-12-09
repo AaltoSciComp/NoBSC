@@ -84,6 +84,10 @@ Key dates:
 * 20 January: Talk length decided (latest)
 * 2-4 February: Nordic Basic Scientific Computing event 
 
+`RSE-FI flyer <https://raw.githubusercontent.com/AaltoSciComp/NoBSC/refs/heads/main/NoBSC-RSE-FI.pdf>`__,
+`SciComp teams flyer <https://raw.githubusercontent.com/AaltoSciComp/NoBSC/refs/heads/main/NoBSC-SciComp.pdf>`__
+
+
 Registration
 ------------
 
