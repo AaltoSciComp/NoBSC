@@ -34,11 +34,15 @@ for smaller discussion sessions (not reserved).
 
 **Selection process:**
 We will review all submissions to make sure they align with the spirit of the event. 
-Our goal is to accept as many contributions as possible. At the moment, 
+Our goal is to accept as many contributions as possible. If there are too many long talks submitted, 
 our plan is to let attendees vote and allocate time slots based on those votes. 
 When submitting, please keep your abstract concise and accessible to a general audience.
 
 In short: Your contribution will most likely be accepted, the main question is how much time you'll have to present.
+
+Deadline for submissions to get into the program is January 20 end of day in Nordics.
+
+You will get to know about the length of your talk on January 21. 
 
 
 Contribution inspirations
