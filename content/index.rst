@@ -79,9 +79,8 @@ Key dates:
 
 * 5 December: Registration opens (closes when full)
 * Rolling acceptance of talks, posters/demos
-* 7 January: First submission deadline, if needed we will have a voting on talks (all
-  relevant talks accepted, only length may be decided by voting).
-* 20 January: Talk length decided (latest)
+* 20 January: Abstract submission deadline (every suitable abstract submitted until this date will get a spot in the program)
+* 21 January: Talk length decided (latest)
 * 2-4 February: Nordic Basic Scientific Computing event 
 
 `RSE-FI flyer <https://raw.githubusercontent.com/AaltoSciComp/NoBSC/refs/heads/main/NoBSC-RSE-FI.pdf>`__,
