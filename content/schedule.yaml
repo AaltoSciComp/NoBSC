@@ -40,7 +40,7 @@ templates:
       short: Various restaurants
 
     - &session
-      title: Session
+      title: (session)
       location: main
       #short: To be filled with submitted talks
 
@@ -94,12 +94,16 @@ schedule:
       time: 10:30
     - <<: *session
       time: 10:45
+    - title: RSE talk
+      time: 11:15
+      location: main
+
     - <<: *lunch
 
     - id: intro2
       time: 13:00
       location: main
-      title: RC/SciComp team meetup intro
+      title: SciComp team meetup intro
       contributors: Darst, Wittke
       abstract: |
         Introductory words.
@@ -124,14 +128,58 @@ schedule:
         Attendees will get contribution instructions (+ more details)
         closer to the event.
 
-    - <<: *session
+    #- <<: *session
+    #  time: 14:30
+
+    - id: role-of-rses
+      title: Role of SciComp and RSEs
       time: 14:00
+      location: main
+      abstract: |
+        What is the role of Research Software Engineers, and teams of them, in
+        universities in the future?  Heikki Manilla was president of the
+        Research Council of Finland (then the Academy of Finland) from
+        2012-2022 and now the director of the "House of AI", an Aalto project
+        helping to connect various disciplines in the use of AI and scientific
+        computing.  Heikki will present the funders' side of things and give
+        some vision for how research engineer and scientific computing teams
+        can be made sustainable in the future.
+
 
     - <<: *break
       time: 14:30
 
     - <<: *session
       time: 14:45
+
+    - id: hardest-legal-questions
+      shorttitle: Hardest legal questions
+      title: "Discussion: The current hardest legal questions in research data and computing"
+      time: 16:00
+      location: main
+      abstract: |
+        We often hear clear-cut instructions about legal matters in research
+        (copyright, data, ethics, intellectual property, and especially AI
+        these days).  Yet humans are behind the scenes, reading and
+        interpreting the legislation, court cases and legal literature and
+        producing these guidelines, and it isn't always so clear-cut.  This is
+        a discussion with Maria Rehbinder, Legal Counsel, Aalto University,
+        where we'll peek "behind the cutains" at some of the open questions
+        going around right now, especially related to AI.  This will start a
+        two-way discussion about all of these legal matters.
+
+        Maria Rehbinder is a Senior Legal Counsel at Aalto University.  Her
+        traditional standard projects included copyright, trademarks, and
+        design rights, but more recently has been involved in the initial
+        implementation work of legislation such as the GDPR, AI Act, and
+        Digital Services Act.  Maria serves as a member in the Copyright
+        Commission and the Copyright Council of the Ministry of Education and
+        Culture and as a member in the Rights ManagementCommittee of Open
+        Research and Science 2014-2017 initiative of the ministry.
+
+
+    - <<: *session
+      time: 16:30
 
     - <<: *end
 
@@ -152,7 +200,8 @@ schedule:
     - <<: *session
       time: 9:00
     - id: panel
-      time: 9:30
+      time: 10:00
+      shorttitle: Panel discussion
       title: Panel discussion with junior computational researchers
       location: main
       abstract: |
@@ -169,6 +218,7 @@ schedule:
       location: main
       title: Concluding remarks
     - <<: *lunch
+      short: Ad-hoc (upstairs not reserved)
 
     - id: funding
       time: 14:00

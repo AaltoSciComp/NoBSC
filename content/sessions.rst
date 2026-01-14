@@ -10,12 +10,13 @@ Discussion: The current hardest legal questions in research data and computing
 
 We often hear clear-cut instructions about legal matters in research
 (copyright, data, ethics, intellectual property, and especially AI
-these days).  Yet humans are behind the scenes, carefully reading the
-legislation and producing these guidlines, and it isn't always so
-clear-cut.  This is a discussion with Maria Rehbinder, legal counsel,
-Aalto University, where we'll peek "behind the cutains" at some of the
-open questions going around right now, especially related to AI.  This
-will start a two-way discussion about all of these legal matters.
+these days).  Yet humans are behind the scenes, reading and
+interpreting the legislation, court cases and legal literature and
+producing these guidelines, and it isn't always so clear-cut.  This is
+a discussion with Maria Rehbinder, Legal Counsel, Aalto University,
+where we'll peek "behind the cutains" at some of the open questions
+going around right now, especially related to AI.  This will start a
+two-way discussion about all of these legal matters.
 
 Maria Rehbinder is a Senior Legal Counsel at Aalto University.  Her
 traditional standard projects included copyright, trademarks, and
