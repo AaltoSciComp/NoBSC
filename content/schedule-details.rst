@@ -13,11 +13,11 @@ Schedule
      {% for day_name, day in schedule.schedule|items%}
        <h3>{{ day_name }}</h3>
 
-       <table class="docutils">
+       <table class="docutils" style="word-wrap: break-word;">
        <tr>
-          <th></th>
+          <th style="width: 10%"></th>
           {% for room_name, room_data in schedule.meta.rooms|items %}
-            <th style="vertical-align: top;">{{room_data.name}}
+            <th style="vertical-align: top; width: 30%">{{room_data.name}}
 	    {% if 'description' in room_data %}<br><span style="font-weight: normal;">{{room_data.description}}</span>{% endif %}
             </th>
           {% endfor %}
@@ -32,8 +32,9 @@ Schedule
             <td>
             {% for event in sessions|rejectattr("location", "undefined")|selectattr("location", "eq", room) %}
                <b>
-                 {% if 'id' in event %}<a href="../sessions/#{{event.id}}">{{ event.title }}</a>
-                 {% else %}{{ event.title }}</a>
+                 {% if 'id' in event %}<a
+		 href="../sessions/#{{event.id}}">{{ event.shorttitle|default(event.title) }}</a>
+                 {% else %}{{ event.shorttitle|default(event.title) }}
                  {% endif %}
                </b>
                {% if 'short' in event %}
