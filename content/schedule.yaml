@@ -133,7 +133,7 @@ schedule:
 
     - id: role-of-rses
       title: Role of SciComp and RSEs
-      time: 14:00
+      time: 13:45
       location: main
       abstract: |
         What is the role of Research Software Engineers, and teams of them, in
@@ -155,7 +155,7 @@ schedule:
     - id: hardest-legal-questions
       shorttitle: Hardest legal questions
       title: "Discussion: The current hardest legal questions in research data and computing"
-      time: 16:00
+      time: 15:45
       location: main
       abstract: |
         We often hear clear-cut instructions about legal matters in research
@@ -210,9 +210,9 @@ schedule:
         junior researchers, about how usable they find computing
         systems and the onboarding process.
     - <<: *break
-      time: 10:30
-    - <<: *session
       time: 10:45
+    - <<: *session
+      time: 11:00
     - id: outro2
       time: 11:45
       location: main
@@ -221,8 +221,9 @@ schedule:
       short: Ad-hoc (upstairs not reserved)
 
     - id: funding
-      time: 14:00
+      time: 13:00
       title: Local team funding discussion
+      subtitle: (optional, if there is any interest)
       location: main
       abstract: |
         How can universities get infrastructure funding for local
@@ -234,5 +235,3 @@ schedule:
         opportunities?  Is it better to start local?  With large
         computing clusters taking all the hype, what's the role of
         local people?  We will try to figure this out.
-
-        Time: the last day after lunch.
