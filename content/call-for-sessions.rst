@@ -19,6 +19,7 @@ to not have to decline any submitted talks. Only the length may change.
      dynamically during the meeting and allocate time then)
 
 .. admonition:: Abstract submission link
+   :class: important
 
    https://indico.neic.no/event/284/abstracts/
 
