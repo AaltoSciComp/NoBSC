@@ -95,7 +95,7 @@ schedule:
     - <<: *session
       time: 10:45
     - title: RSE talk
-      time: 11:15
+      time: 11:30
       location: main
 
     - <<: *lunch
