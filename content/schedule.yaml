@@ -98,11 +98,9 @@ schedule:
       title: RSE talk
       time: 11:15
       location: main
-      contributors: Name, Name
+      #contributors: Name, Name
       description: |
-        Description here.
-
-        Second paragraph.
+        TBA.
 
     - <<: *lunch
 
