@@ -37,7 +37,7 @@ templates:
       title: Dinner
       time: 19:00
       location: other
-      short: Various restaurants
+      short: Self-organized
 
     - &session
       title: (session)
