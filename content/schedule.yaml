@@ -64,7 +64,7 @@ schedule:
       location: main
       title: RSE meetup intro
       contributors: Samantha Wittke, Richard Darst
-      abstract: |
+      abstract: >
         Introductory words.
     - <<: *session
       time: 13:10
@@ -99,7 +99,7 @@ schedule:
       time: 11:15
       location: main
       #contributors: Name, Name
-      description: |
+      description: >
         TBA.
 
     - <<: *lunch
@@ -109,7 +109,7 @@ schedule:
       location: main
       title: SciComp team meetup intro
       contributors: Richard Darst, Samantha Wittke
-      abstract: |
+      abstract: >
         Introductory words.
 
     - id: cool-things-and-problems
@@ -118,7 +118,7 @@ schedule:
       location: main
       #short: short desc
       contributors: Darst facilitates, everyone may present
-      abstract: |
+      abstract: >
 
         Our icebreaker of the workshop, and starting point for sharing
         ideas.  Everyone (hopefully grouped into teams from their
@@ -127,6 +127,7 @@ schedule:
         lately.  We will quickly go through these and use the talk as a
         starting point for discussion - maybe a few unconference talks
         can be requested from it.
+
 
         The session will be built from a shared editable slide deck.
         Attendees will get contribution instructions (+ more details)
@@ -140,7 +141,7 @@ schedule:
       time: 13:45
       location: main
       contributors: Heikki Manila
-      abstract: |
+      abstract: >
         What is the role of Research Software Engineers, and teams of them, in
         universities in the future?  Heikki Manilla was president of the
         Research Council of Finland (then the Academy of Finland) from
@@ -163,7 +164,7 @@ schedule:
       time: 15:45
       location: main
       contributors: Maria Rehbinder
-      abstract: |
+      abstract: >
         We often hear clear-cut instructions about legal matters in research
         (copyright, data, ethics, intellectual property, and especially AI
         these days).  Yet humans are behind the scenes, reading and
@@ -173,6 +174,7 @@ schedule:
         where we'll peek "behind the cutains" at some of the open questions
         going around right now, especially related to AI.  This will start a
         two-way discussion about all of these legal matters.
+
 
         Maria Rehbinder is a Senior Legal Counsel at Aalto University.  Her
         traditional standard projects included copyright, trademarks, and
@@ -210,7 +212,7 @@ schedule:
       shorttitle: Panel discussion
       title: Panel discussion with junior computational researchers
       location: main
-      abstract: |
+      abstract: >
         Panel discussions are usually full of the most senior people
         the organizers can find.  In this discussion, we'll hear from
         junior researchers, about how usable they find computing
@@ -231,7 +233,7 @@ schedule:
       title: Local team funding discussion
       subtitle: (optional, if there is any interest)
       location: main
-      abstract: |
+      abstract: >
         How can universities get infrastructure funding for local
         Research Software Engineer support.  How can they work together?
         This is a discussion, taking into account everything we have
