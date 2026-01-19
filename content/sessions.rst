@@ -10,7 +10,7 @@ invited by the organizers for the SciComp meetup (the second half).
 
    {% for day_name, day in schedule.schedule|items%}
 
-   {{day_name}}
+   {{ schedule.meta.days[day_name] }}
    ------------------------------------------------------------------------------------------
 
    .. raw:: html
@@ -20,12 +20,12 @@ invited by the organizers for the SciComp meetup (the second half).
 
          <section id="{{event.get("id")}}">
          <h3>{{event.title}}
-	   {%if 'location' in event and 'time' in event %}
-	     ({{"%02d:%02d"|format(event.time//60, event.time%60)}}, {{schedule.meta.rooms[event.location].name}})
-	   {% endif %}
 	   {% if 'id' in event%}<a class="headerlink" href="#{{event.id}}" title="Link to this heading"></a>{% endif %}
 	 </h3>
-	 {% if 'contributors' in event %}<p><i>Contributors: {{event.get("contributors", "")}}</i></p> {% endif %}
+	 <ul>
+	 {% if 'contributors' in event %}<li><i>Contributors: {{event.get("contributors", "")}}</i></li>{% endif %}
+	 {%if 'location' in event and 'time' in event %}<li><i>Time, Location: {{"%02d:%02d"|format(event.time//60, event.time%60)}}, {{schedule.meta.rooms[event.location].name}}</i></li>{% endif %}
+	 </ul>
 
          {{event.get("abstract") |markdown |remove_newlines }}
 	 </section>

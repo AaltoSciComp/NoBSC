@@ -21,7 +21,7 @@ Schedule
    .. raw:: html
 
      {% for day_name, day in schedule.schedule|items%}
-       <h3>{{ day_name }}</h3>
+       <h3>{{ schedule.meta.days[day_name] }}</h3>
 
        <table class="docutils" style="word-wrap: break-word;">
        <tr>

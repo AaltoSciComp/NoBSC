@@ -9,6 +9,11 @@ meta:
     other:
       name: Other
 
+  days:
+    Monday: "Monday (2 February)"
+    Tuesday: "Tuesday (3 February)"
+    Wednesday: "Wednesday (4 February)"
+
 # To have an event NOT appear in the table
 # - exclude "time" or "location"
 # To have an event NOT appear in the paragraph descriptions:
@@ -209,8 +214,8 @@ schedule:
       time: 9:00
     - id: panel
       time: 10:00
-      shorttitle: Panel discussion
-      title: Panel discussion with junior computational researchers
+      shorttitle: "Panel discussion: HPC experience"
+      title: "Panel discussion: Junior researcher's experience of HPC and computing"
       location: main
       abstract: >
         Panel discussions are usually full of the most senior people
@@ -231,7 +236,7 @@ schedule:
     - id: funding
       time: 13:00
       title: Local team funding discussion
-      subtitle: (optional, if there is any interest)
+      short: (optional, if there is any interest)
       location: main
       abstract: >
         How can universities get infrastructure funding for local
