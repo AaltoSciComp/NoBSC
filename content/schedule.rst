@@ -15,8 +15,8 @@ Schedule
 
 .. jinja:: ctx1
 
-   Summary
-   -------
+   Timetable
+   ---------
 
    .. raw:: html
 

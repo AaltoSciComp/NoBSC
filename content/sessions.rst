@@ -7,8 +7,6 @@ invited by the organizers for the SciComp meetup (the second half).
 
 .. jinja:: ctx1
 
-   Summary
-   -------
 
    {% for day_name, day in schedule.schedule|items%}
 
