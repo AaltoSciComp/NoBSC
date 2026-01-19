@@ -63,7 +63,7 @@ schedule:
       time: 13:00
       location: main
       title: RSE meetup intro
-      contributors: Wittke, Darst
+      contributors: Samantha Wittke, Richard Darst
       abstract: |
         Introductory words.
     - <<: *session
@@ -108,7 +108,7 @@ schedule:
       time: 13:00
       location: main
       title: SciComp team meetup intro
-      contributors: Darst, Wittke
+      contributors: Richard Darst, Samantha Wittke
       abstract: |
         Introductory words.
 
@@ -139,6 +139,7 @@ schedule:
       title: Role of SciComp and RSEs
       time: 13:45
       location: main
+      contributors: Heikki Manila
       abstract: |
         What is the role of Research Software Engineers, and teams of them, in
         universities in the future?  Heikki Manilla was president of the
@@ -161,6 +162,7 @@ schedule:
       title: "Discussion: The current hardest legal questions in research data and computing"
       time: 15:45
       location: main
+      contributors: Maria Rehbinder
       abstract: |
         We often hear clear-cut instructions about legal matters in research
         (copyright, data, ethics, intellectual property, and especially AI

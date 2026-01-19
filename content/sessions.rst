@@ -25,7 +25,7 @@ invited by the organizers for the SciComp meetup (the second half).
 	   {% endif %}
 	   {% if 'id' in event%}<a class="headerlink" href="#{{event.id}}" title="Link to this heading"></a>{% endif %}
 	 </h3>
-	 {% if 'contributors' in event %}<p>Contributors: {{event.get("contributors", "")}}</p> {% endif %}
+	 {% if 'contributors' in event %}<p><i>Contributors: {{event.get("contributors", "")}}</i></p> {% endif %}
 
          {{event.get("abstract") |markdown |remove_newlines }}
 	 </section>
