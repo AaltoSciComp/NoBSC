@@ -94,9 +94,15 @@ schedule:
       time: 10:30
     - <<: *session
       time: 10:45
-    - title: RSE talk
-      time: 11:30
+    - id: rse-talk
+      title: RSE talk
+      time: 11:15
       location: main
+      contributors: Name, Name
+      description: |
+        Description here.
+
+        Second paragraph.
 
     - <<: *lunch
 
