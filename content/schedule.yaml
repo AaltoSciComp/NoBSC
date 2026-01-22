@@ -40,14 +40,20 @@ templates:
 
     - &dinner
       title: Dinner
-      time: 19:00
+      time: 18:00
       location: other
       short: Self-organized
 
     - &session
       title: (session)
       location: main
-      #short: To be filled with submitted talks
+      short: Two talks
+
+    
+    - &discussion
+      title: (discussion)
+      location: main
+      short: Discussion session
 
 
 schedule:
@@ -72,11 +78,18 @@ schedule:
       abstract: >
         Introductory words.
     - <<: *session
-      time: 13:10
+      time: 13:30
     - <<: *break
       time: 14:30
-    - <<: *session
-      time: 14:45
+    - <<: *discussion
+      time: 15:00
+    - id: poster
+      time: 16:00
+      location: main
+      title: "poster session"
+      contributors: Luca Ferranti
+      abstract: >
+        TBD
     - <<: *end
 
     - <<: *dinner
@@ -93,19 +106,17 @@ schedule:
     #  #
     #  #  newline
 
-    - <<: *session
-      time: 9:00
+    - id: rse-talk
+      title: RSE talk
+      time: 9:30
+      location: main
+      contributors: Jeremy Cohen
+      abstract: >
+        TBD
     - <<: *break
       time: 10:30
     - <<: *session
-      time: 10:45
-    - id: rse-talk
-      title: RSE talk
-      time: 11:15
-      location: main
-      #contributors: Name, Name
-      description: >
-        TBA.
+      time: 11:00
 
     - <<: *lunch
 
