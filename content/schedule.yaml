@@ -236,9 +236,13 @@ schedule:
     - id: funding
       time: 13:00
       title: Local team funding discussion
-      short: (optional, if there is any interest)
+      short: (if there is any interest)
       location: main
       abstract: >
+        We don't know if anyone will be interested in discussing this.
+        If there is no explicit requests, it is safe to assume this
+        won't happen.
+
         How can universities get infrastructure funding for local
         Research Software Engineer support.  How can they work together?
         This is a discussion, taking into account everything we have
