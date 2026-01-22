@@ -117,6 +117,13 @@ schedule:
       time: 10:30
     - <<: *session
       time: 11:00
+    - id: outro1
+      time: 11:45
+      location: main
+      title: RSE meetup wrapup
+      contributors: Samantha Wittke, Richard Darst
+      abstract: >
+        Closing words.
 
     - <<: *lunch
 
