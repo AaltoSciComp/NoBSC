@@ -26,6 +26,12 @@ templates:
       title: Break
       short: With coffee
 
+    - &registration
+      title: Arrival and registration
+      time: 11:30
+      location: main
+      short: Registration and lunch info
+
     - &lunch
       title: Lunch
       time: 12:00
@@ -69,6 +75,7 @@ schedule:
     #  #
     #  #  newline
 
+    - <<: *registration
     - <<: *lunch
     - id: intro1
       time: 13:00
