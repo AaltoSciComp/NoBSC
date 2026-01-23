@@ -50,6 +50,9 @@ Schedule
                {% if 'short' in event %}
                  <br>{{ event.short }}
                {% endif %}
+               {% if 'contributors' in event %}
+                 <br><small>{{ event.contributors }}</small>
+               {% endif %}
                {%if not loop.last %}<br><br>{% endif %}
             {% endfor %}
             </td>
