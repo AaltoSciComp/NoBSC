@@ -24,7 +24,12 @@ templates:
       time: 10:50
       location: other
       title: Break
-      short: With coffee
+
+    - &breakinc
+      time: 10:50
+      location: other
+      title: Break
+      short: With coffee & small snacks
 
     - &registration
       title: Arrival and registration
@@ -32,8 +37,14 @@ templates:
       location: main
       short: Registration and lunch info
 
+    - &lunchinc
+      title: Lunch (included)
+      time: 12:00
+      location: other
+      short: Upstairs
+
     - &lunch
-      title: Lunch
+      title: Lunch (self-payed)
       time: 12:00
       location: other
       short: Upstairs
@@ -76,7 +87,7 @@ schedule:
     #  #  newline
 
     - <<: *registration
-    - <<: *lunch
+    - <<: *lunchinc
     - id: intro1
       time: 13:00
       location: main
@@ -120,7 +131,7 @@ schedule:
           In this part, we share how earlier missteps and constraints, together with a fresh developer perspective and a conscious commitment to
           RSE practices from the outset, are shaping its second life. We conclude by teasing lessons learned and opening a discussion on
           how academic projects might better plan, fund, and recognise software work - and how this could support more sustainable, RSE‑centric career paths.
-    - <<: *break
+    - <<: *breakinc
       time: 14:30
     - <<: *discussion
       time: 15:00
@@ -148,7 +159,7 @@ schedule:
     #  #  newline
 
     - id: rse-talk
-      title: RSE talk
+      title: Keynote: The RSE community in the United Kingdom
       time: 9:30
       location: main
       contributors: Jeremy Cohen
@@ -165,10 +176,10 @@ schedule:
         In his talk, Jeremy will discuss how Research Software Engineering has developed within the UK. He will highlight various challenges and opportunities around
         developing skills and career pathways for RSEs. He will then look at how the RSE community is expanding to represent a wider group of dRTPs in a range of
         technical roles who provide vital contributions to support and undertake modern digital research.
-    - <<: *break
+    - <<: *breakinc
       time: 10:30
     - id: julia
-      time: 11:00
+      time: 10:45
       location: main
       title: "Towards FAIR file formats: a case example with Origin & Python"
       contributors: Julia Niskanen
@@ -252,7 +263,7 @@ schedule:
         can be made sustainable in the future.
 
 
-    - <<: *break
+    - <<: *breakinc
       time: 14:30
 
     - <<: *session
