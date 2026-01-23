@@ -194,7 +194,7 @@ schedule:
           images, workbooks, matrices and notes to open file formats. While not all objects of the .opju file are currently included,
           converting the major objects to open formats is a notable improvement to Interoperability. Convert-opju is freely available (MIT License) on Github and Zenodo.
     - id: frankie
-      time: 11:00
+      time: 10:45
       location: main
       title: "Realization: it's SymPy"
       contributors: Frankie Robertson
