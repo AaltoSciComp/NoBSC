@@ -84,8 +84,16 @@ schedule:
       contributors: Samantha Wittke, Richard Darst
       abstract: >
         Introductory words.
-    - <<: *session
-      time: 13:30
+    - id: kamyar 
+        time: 13:30
+        location: main  
+        title: Sharing GIS Tools Across Disciplines: Hard Choices, opportunities, and Trade-offs   
+        contributors: Kamyar Hasanzadeh      
+    - id: ina 
+        time: 13:30
+        location: main  
+        title: TargetCAT: When a Script Refuses to Stay Small   
+        contributors: Ina Pöhner, Rafael Lopes Almeida  
     - <<: *break
       time: 14:30
     - <<: *discussion
@@ -122,8 +130,16 @@ schedule:
         TBD
     - <<: *break
       time: 10:30
-    - <<: *session
-      time: 11:00
+    - id: julia
+        time: 11:00
+        location: main  
+        title: Towards FAIR file formats: a case example with Origin & Python    
+        contributors: Julia Niskanen 
+    - id: frankie
+        time: 11:00
+        location: main  
+        title: Realization: it's SymPy    
+        contributors: Frankie Robertson  
     - id: outro1
       time: 11:45
       location: main
