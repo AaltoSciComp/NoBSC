@@ -44,7 +44,7 @@ templates:
       short: Upstairs
 
     - &lunch
-      title: Lunch (self-payed)
+      title: Lunch (self-paid)
       time: 12:00
       location: other
       short: Upstairs
@@ -59,7 +59,7 @@ templates:
       title: Dinner
       time: 18:00
       location: other
-      short: Self-organized
+      short: Self-paid
 
     - &session
       title: (session)
@@ -68,9 +68,9 @@ templates:
 
 
     - &discussion
-      title: (discussion)
+      title: Discussion session
       location: main
-      short: Discussion session
+      short: Topic TBD
 
 
 schedule:
@@ -138,10 +138,9 @@ schedule:
     - id: poster
       time: 16:00
       location: main
-      title: "poster session"
+      title: Laptop session
       contributors: Luca Ferranti
-      abstract: >
-        TBD
+      short: TBD
     - <<: *end
 
     - <<: *dinner
