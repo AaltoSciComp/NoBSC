@@ -108,11 +108,13 @@ schedule:
           TargetCAT was born. What began as a small collection of personal scripts to manage and process data on potential drug targets refused to stay small.
           It quietly turned into a research pipeline that enabled several publications and projects, while itself remaining far from ideal in many places.
 
+
           In this talk, we use TargetCAT as a case study to explore how research software typically evolves in academic projects:
           how it survives, grows, and gradually accumulates technical debt. We reflect on familiar patterns such as ad‑hoc workflows,
           "ghost development" carried out outside funded time, and feature creep driven by scientific needs without corresponding resources.
           Along the way, the story touches on identity challenges faced by researchers whose work is effectively research software engineering,
           but is assessed through publication‑centred metrics.
+
 
           The second half of the talk turns to a reboot of TargetCAT as an open‑source pipeline for an academic–industry collaboration.
           In this part, we share how earlier missteps and constraints, together with a fresh developer perspective and a conscious commitment to
@@ -158,6 +160,7 @@ schedule:
         the wider “digital Research Technical Professionals” (dRTP) space that’s developing in the UK to recognise not just RSEs but also research data and
         research computing infrastructure professionals. He is the PI of STEP-UP (https://step-up.ac.uk), an EPSRC-funded Strategic Technical Platform with a regional focus
         on developing skills, community and career pathways for dRTPs.
+
 
         In his talk, Jeremy will discuss how Research Software Engineering has developed within the UK. He will highlight various challenges and opportunities around
         developing skills and career pathways for RSEs. He will then look at how the RSE community is expanding to represent a wider group of dRTPs in a range of
@@ -334,6 +337,7 @@ schedule:
         We don't know if anyone will be interested in discussing this.
         If there is no explicit requests, it is safe to assume this
         won't happen.
+
 
         How can universities get infrastructure funding for local
         Research Software Engineer support.  How can they work together?
