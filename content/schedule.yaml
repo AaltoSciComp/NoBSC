@@ -159,7 +159,7 @@ schedule:
     #  #  newline
 
     - id: rse-talk
-      title: Keynote: The RSE community in the United Kingdom
+      title: Keynote - The RSE community in the United Kingdom
       time: 9:30
       location: main
       contributors: Jeremy Cohen
