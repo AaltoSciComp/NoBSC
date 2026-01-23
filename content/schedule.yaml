@@ -88,12 +88,36 @@ schedule:
         time: 13:30
         location: main  
         title: Sharing GIS Tools Across Disciplines: Hard Choices, opportunities, and Trade-offs   
-        contributors: Kamyar Hasanzadeh      
+        contributors: Kamyar Hasanzadeh
+        abstract: >
+          As GIS methods spread into interdisciplinary research, researchers are increasingly expected to package their workflows as usable software for others. 
+          In practice, this is far from straightforward. This talk reflects on several common ways of sharing GIS tools—commercial extensions (e.g. ArcGIS toolboxes),
+          open-source plugins (QGIS), standalone desktop applications, web apps, and simply releasing code—and the challenges that come with each. 
+          These include technical maintenance, licensing constraints, usability for non-GIS experts, reproducibility, institutional dependencies, 
+          and long-term sustainability. Rather than advocating a single solution, the talk examines both the advantages and the challenges of each approach, 
+          using these trade-offs as a starting point for discussion on how researchers and research software engineers can make more realistic and 
+          context-aware decisions when sharing GIS methods for interdisciplinary use.
     - id: ina 
         time: 13:30
         location: main  
         title: TargetCAT: When a Script Refuses to Stay Small   
-        contributors: Ina Pöhner, Rafael Lopes Almeida  
+        contributors: Ina Pöhner, Rafael Lopes Almeida 
+        abstract: >
+          Imagine a project where a handful of researchers all try to do the same thing - except everyone does it manually, 
+          in their own way, and the one automated step crashes regularly due to poor error handling. Out of frustration with this fragile setup, 
+          TargetCAT was born. What began as a small collection of personal scripts to manage and process data on potential drug targets refused to stay small. 
+          It quietly turned into a research pipeline that enabled several publications and projects, while itself remaining far from ideal in many places.
+
+          In this talk, we use TargetCAT as a case study to explore how research software typically evolves in academic projects: 
+          how it survives, grows, and gradually accumulates technical debt. We reflect on familiar patterns such as ad‑hoc workflows, 
+          "ghost development" carried out outside funded time, and feature creep driven by scientific needs without corresponding resources. 
+          Along the way, the story touches on identity challenges faced by researchers whose work is effectively research software engineering, 
+          but is assessed through publication‑centred metrics.
+
+          The second half of the talk turns to a reboot of TargetCAT as an open‑source pipeline for an academic–industry collaboration. 
+          In this part, we share how earlier missteps and constraints, together with a fresh developer perspective and a conscious commitment to 
+          RSE practices from the outset, are shaping its second life. We conclude by teasing lessons learned and opening a discussion on 
+          how academic projects might better plan, fund, and recognise software work - and how this could support more sustainable, RSE‑centric career paths.
     - <<: *break
       time: 14:30
     - <<: *discussion
@@ -127,7 +151,17 @@ schedule:
       location: main
       contributors: Jeremy Cohen
       abstract: >
-        TBD
+        Jeremy Cohen is an Advanced Research Fellow in the Department of Computing and Director of Research Software Engineering Strategy at Imperial College London.
+        He has been involved in the Research Software Engineering community since the early days and held a research software development role in a research group 
+        prior to the existence of the “RSE" term. He has a PhD in Computing from Imperial and held one of the 5-year Research Software Engineering Fellowships (from 2018)
+        that were funded by the UK Engineering and Physical Sciences Research Council (EPSRC). Jeremy is currently involved in a set of different grants relating to RSE and
+        the wider “digital Research Technical Professionals” (dRTP) space that’s developing in the UK to recognise not just RSEs but also research data and 
+        research computing infrastructure professionals. He is the PI of STEP-UP (https://step-up.ac.uk), an EPSRC-funded Strategic Technical Platform with a regional focus
+        on developing skills, community and career pathways for dRTPs.
+
+       In his talk, Jeremy will discuss how Research Software Engineering has developed within the UK. He will highlight various challenges and opportunities around 
+       developing skills and career pathways for RSEs. He will then look at how the RSE community is expanding to represent a wider group of dRTPs in a range of 
+       technical roles who provide vital contributions to support and undertake modern digital research.
     - <<: *break
       time: 10:30
     - id: julia
@@ -135,11 +169,28 @@ schedule:
         location: main  
         title: Towards FAIR file formats: a case example with Origin & Python    
         contributors: Julia Niskanen 
+        abstract: >
+          Open science and FAIR principles have become increasingly important in the last decade. 
+          However, the implementation of Interoperability is sometimes challenged by established software and analytical practices. 
+          One example of such established software is Origin (OriginLab Corporation, Northampton, Massachusetts, USA), 
+          an analysis software with various features involving graphing, statistical operations, and data processing and transformation. 
+          Origin output files are comprehensive and can contain entire analysis pipelines; however, the file format (.opju) is proprietary, 
+          the software is restricted to Windows and requires a paid license to access all features, and there is no easy option to export 
+          all the contents of the file to other formats. Together, these factors impede the implementation of Interoperability. 
+          To overcome these obstacles, I have developed a lightweight Python tool, convert-opju, that can be run within Origin to quickly and systematically export graphs, 
+          images, workbooks, matrices and notes to open file formats. While not all objects of the .opju file are currently included, 
+          converting the major objects to open formats is a notable improvement to Interoperability. Convert-opju is freely available (MIT License) on Github and Zenodo.
     - id: frankie
         time: 11:00
         location: main  
         title: Realization: it's SymPy    
-        contributors: Frankie Robertson  
+        contributors: Frankie Robertson
+        abstract: >
+          SymPy looks nice, but it's not a real CAS... is it?
+          In this presentation I hope to show that as well as SymPy scaling down, SymPy is quite a capable CAS for helping to tackle real world problems we might encounter as RSEs.
+          The main content of the presentation is a case study of how SymPy has been a useful tool during my first project as an RSE, working on a simulation of a mass spectrometer,
+          both as a tool for ad-hoc tool enabling DRY and --- using more of its power --- to help design more efficient numerical sampling code.
+          So next time you have some maths to wrangle, I say: "Go on: treat yourself!" (to SymPy)
     - id: outro1
       time: 11:45
       location: main
