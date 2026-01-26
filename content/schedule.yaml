@@ -24,6 +24,7 @@ templates:
       time: 10:50
       location: other
       title: Break
+      short: With only small snacks
 
     - &breakinc
       time: 10:50
