@@ -5,9 +5,12 @@ Practical info
 Location
 --------
 
-Aalto University Campus, (Espoo), Helsinki Area.  If you search
-``Dipoli`` in a map service it should find it, the address is ``Otakaari 24, 02150
-Espoo``.
+Dipoli building, Aalto University Campus, (Espoo), Helsinki Area.  If
+you search ``Dipoli`` in a map service it should find it, the address
+is ``Otakaari 24, 02150 Espoo``.
+
+The room is "Palaver" and there should be signs pointing you that
+direction (it's also exactly marked on the map below).
 
 
 Food
