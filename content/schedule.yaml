@@ -42,13 +42,11 @@ templates:
       title: Lunch (included)
       time: 12:00
       location: other
-      short: Upstairs
+      short: 2nd floor, Metso restaurant <small>(not Reima student restaurant)</small>
 
     - &lunch
+      <<: *lunchinc
       title: Lunch (self-paid)
-      time: 12:00
-      location: other
-      short: Upstairs
 
     - &end
       title: End of day
@@ -337,12 +335,11 @@ schedule:
       location: main
       title: Concluding remarks
     - <<: *lunch
-      short: Ad-hoc (upstairs not reserved)
 
     - id: funding
       time: 13:00
       title: Local team funding discussion
-      short: (if there is any interest)
+      short: (if there is any interest - no plans yet)
       location: main
       abstract: >
         We don't know if anyone will be interested in discussing this.

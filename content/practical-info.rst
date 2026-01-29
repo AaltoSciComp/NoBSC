@@ -9,8 +9,20 @@ Dipoli building, Aalto University Campus, (Espoo), Helsinki Area.  If
 you search ``Dipoli`` in a map service it should find it, the address
 is ``Otakaari 24, 02150 Espoo``.
 
-The room is "Palaver" and there should be signs pointing you that
-direction (it's also exactly marked on the map below).
+The main room is "Palaver" and there should be signs pointing you that
+direction (it's also exactly marked on the map below).  **If you
+arrive for lunch** you can find us on the 2nd floor Metso restaurant
+(not the Reima student restaurant that is next to it).
+
+
+FAQ
+---
+
+Questions from attendees will be placed here for your reference:
+
+* .
+* .
+* .
 
 
 Food
