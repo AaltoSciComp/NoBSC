@@ -141,7 +141,7 @@ schedule:
       location: main
       title: Laptop session
       contributors: Luca Ferranti
-      short: Do you have something cool on your laptop you can't wait to share with others? Have ever been frustrated at traditional poster sessions thinking "This would be much cooler if I could demo from my PC". Join our first "Laptop session", everyone with a computer can join and showcase a demo of something they are proud of, doesn't matter if it is a project, your dot files or something else, join to share with others in a chill environment. 
+      abstract: Do you have something cool on your laptop you can't wait to share with others? Have ever been frustrated at traditional poster sessions thinking "This would be much cooler if I could demo from my PC". Join our first "Laptop session", everyone with a computer can join and showcase a demo of something they are proud of, doesn't matter if it is a project, your dot files or something else, join to share with others in a chill environment. 
     - <<: *end
 
     - <<: *dinner
