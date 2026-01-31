@@ -19,7 +19,7 @@ invited by the organizers for the SciComp meetup (the second half).
        {% for event in sessions|rejectattr("id", "undefined") %}
 
          <section id="{{event.get("id")}}">
-         <h3>{{event.title}}
+         <h3 style="margin-bottom: 0px;">{{event.title}}
 	   {% if 'id' in event%}<a class="headerlink" href="#{{event.id}}" title="Link to this heading"></a>{% endif %}
 	 </h3>
 	 <ul>

@@ -143,6 +143,19 @@ schedule:
     - <<: *end
 
     - <<: *dinner
+      id: dinner1
+      short: Fat Lizard (own expense, confirm participation by afternoon coffee break)
+      abstract: >-
+        We have a dinner reservation at [Fat Lizard
+        restaurant](https://www.ravintolafatlizard.fi/en/otaniemi/).
+        Confirm your spot by the afternoon coffee break.
+
+
+        Address: Tietotie 1 (~10-15 minute walk away).  The
+        [menu](https://www.ravintolafatlizard.fi/en/our-menu/) will
+        suit almost all diets, but for a group of our size there is a
+        more limited menu than seen on that page (still suitable for
+        all diets).
 
   Tuesday:
     #- #id: name   # If missing, do not include in the long list
@@ -301,6 +314,18 @@ schedule:
     - <<: *end
 
     - <<: *dinner
+      id: dinner2
+      short: Itsuyaka, Tapiola (own expense, confirm participation by afternoon coffee break)
+      abstract: >-
+        We have a dinner reservation at the [Itsuyaka
+        restaurant](https://www.itsuyaki.fi/ainoa).  Confirm your spot
+        by the afternoon coffee break.
+
+
+        It has a buffet with many Asian-type foods.  It's at the Ainoa
+        shopping center at the Tapiola metro station, the building
+        with the metro station in it, second floor.  It's one metro
+        stop or a 30 minute walk.
 
 
     #- id: unconference
