@@ -65,6 +65,10 @@ templates:
       location: main
       short: Two talks
 
+    - &unconf
+      title: (session)
+      location: main
+      short: As proposed by attendees
 
     - &discussion
       title: Discussion session
@@ -277,7 +281,7 @@ schedule:
     - <<: *breakinc
       time: 14:30
 
-    - <<: *session
+    - <<: *unconf
       time: 14:45
 
     - id: hardest-legal-questions
@@ -308,7 +312,7 @@ schedule:
         Research and Science 2014-2017 initiative of the ministry.
 
 
-    - <<: *session
+    - <<: *unconf
       time: 16:30
 
     - <<: *end
@@ -339,7 +343,7 @@ schedule:
 
 
   Wednesday:
-    - <<: *session
+    - <<: *unconf
       time: 9:00
     - id: panel
       time: 10:00
@@ -353,7 +357,7 @@ schedule:
         systems and the onboarding process.
     - <<: *break
       time: 10:45
-    - <<: *session
+    - <<: *unconf
       time: 11:00
     - id: outro2
       time: 11:45
