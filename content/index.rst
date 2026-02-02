@@ -54,7 +54,7 @@ Schedule (general plan)
 
 .. seealso:: :doc:`schedule`
 
-* Day 1 (Mo, 2 Feb 2026): RSE meetup, starting with lunch at 11
+* Day 1 (Mo, 2 Feb 2026): RSE meetup, starting with lunch at 12
 * Day 2 (Tu, 3 Feb 2026): RSE/SciComp overlap day: events, lunch, evening dinner, some social activities scattered between.
 * Day 3 (We: 4 Feb 2026): SciComp team meetup: events 9-12, lunch.
 
