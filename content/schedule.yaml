@@ -346,11 +346,11 @@ schedule:
 
   Wednesday:
     - <<: *unconf
-      time: 9:00
+      time: 9:30
     - id: panel
       time: 10:00
-      shorttitle: "Panel discussion: HPC experience"
-      title: "Panel discussion: Junior researcher's experience of HPC and computing"
+      shorttitle: "Panel discussion: Scientific computing experience"
+      title: "Panel discussion: Junior researcher's experience of scientific and HPC and computing"
       location: main
       abstract: >
         Panel discussions are usually full of the most senior people
