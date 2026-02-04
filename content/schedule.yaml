@@ -235,7 +235,7 @@ schedule:
       title: SciComp team meetup intro
       contributors: Richard Darst, Samantha Wittke
       abstract: >
-        Introductory words.
+        Introductory words.  [Slides](https://docs.google.com/presentation/d/1l84HguH3v0H42XWDCR005VZsYKcsReQBvdImbGMfiIQ/edit).
 
     - id: cool-things-and-problems
       title: Cool things and problems
@@ -283,8 +283,13 @@ schedule:
     - <<: *breakinc
       time: 14:30
 
-    - <<: *unconf
+    - title: "Unconference: How can we get users to ask for help?"
       time: 14:45
+      location: main
+    - title: "Unconference: Everything, everywhere, all at once"
+      time: 14:45
+      location: klondyke
+      short: 'If "AI" can mean anything, how do we support "AI"?'
 
     - id: hardest-legal-questions
       shorttitle: Hardest legal questions
@@ -316,6 +321,7 @@ schedule:
 
     - <<: *unconf
       time: 16:30
+      short: Further discussion
 
     - <<: *end
 
@@ -345,8 +351,10 @@ schedule:
 
 
   Wednesday:
-    - <<: *unconf
-      time: 9:30
+    - time: 9:30
+      location: main
+      title: "Unconference: VSCode and AI agents on HPC?"
+      short: "Should we embrace, accept, prohibit, or ...?"
     - id: panel
       time: 10:00
       shorttitle: "Panel discussion: Scientific computing experience"
@@ -359,12 +367,24 @@ schedule:
         systems and the onboarding process.
     - <<: *break
       time: 10:45
-    - <<: *unconf
+    - title: "Unconference: hallway track"
+      short: "Further discussion with the panelists"
+      location: main
       time: 11:00
+    - title: "Unconference: OpenCompose on OnDemand"
+      short: Demonstration of the job composer
+      location: main
+      time: 11:00
+    - title: "Unconference: keeping the community going"
+      location: main
+      time: 11:00
+      short: We'd like to meet again in a year, now what?
     - id: outro2
       time: 11:45
       location: main
       title: Concluding remarks
+      abstract: >-
+        [Slides](https://docs.google.com/presentation/d/1l84HguH3v0H42XWDCR005VZsYKcsReQBvdImbGMfiIQ/edit)
     - <<: *lunch
 
     - id: funding
