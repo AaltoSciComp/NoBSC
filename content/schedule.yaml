@@ -384,7 +384,7 @@ schedule:
       location: main
       title: Concluding remarks
       abstract: >-
-        [Slides](https://docs.google.com/presentation/d/1l84HguH3v0H42XWDCR005VZsYKcsReQBvdImbGMfiIQ/edit)
+        [Slides](https://docs.google.com/presentation/d/1l84HguH3v0H42XWDCR005VZsYKcsReQBvdImbGMfiIQ/edit?slide=id.g3c3e636cffc_0_0#slide=id.g3c3e636cffc_0_0)
     - <<: *lunch
 
     - id: funding
