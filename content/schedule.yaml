@@ -289,7 +289,7 @@ schedule:
     - title: "Unconference: Everything, everywhere, all at once"
       time: 14:45
       location: klondyke
-      short: 'If "AI" can mean anything, how do we support "AI"?'
+      short: 'If "AI" can mean anything, how do we support "AI"?  [Slides](https://docs.google.com/presentation/d/1gHIibVQdsvu1YoKDVtzleL1MZCvsWuXTqASLeeLRXCU/edit)'
 
     - id: hardest-legal-questions
       shorttitle: Hardest legal questions
