@@ -24,6 +24,13 @@ Nordic Basic Scientific Computing 2026
    schedule
    sessions
 
+.. admonition:: Thank you!
+
+   Thanks to all attendees, speakers, and unconference hosts.  We had
+   a good meet-up, lots of engaging discussions, and formed the seed
+   of a community.  We plan a repeat in Tampere (or Turku) in January
+   2027, and maybe some online get-together before then.
+
 
 Nordic Basic Scientific Computing is a gathering of everyone
 interested in supporting scientific computing (and a celebration of
