@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Nordic Basic Scientific Computing"
-copyright = "2025, The contributors"
+project = "Nordic Basic Scientific Computing 2026"
+copyright = "2026, The contributors"
 author = "The contributors"
 github_user = "AaltoSciComp"
 github_repo_name = ""  # auto-detected from dirname if blank
